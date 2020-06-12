@@ -21,6 +21,10 @@
 - [尾调用优化 / Tail Call Optimization](blog/tail-call-optimization.md)
 - [TCP 与 UDP 的区别](blog/tcp-vs-udp.md)
 
+### Course
+
+- [七月算法](course/july-algorithm)
+
 ### License
 
 Copyright (c) 2020 Lewis Tian. Licensed under the MIT license.
