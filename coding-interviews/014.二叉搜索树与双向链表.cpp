@@ -47,3 +47,36 @@ class Solution {
 		return left ? left : root;
 	}
 };
+
+// 1. 核心是中序遍历的非递归算法。
+// 2. 修改当前遍历节点与前一遍历节点的指针指向。
+class Solution {
+  public:
+	TreeNode* Convert(TreeNode* root) {
+		vector<TreeNode*> v;
+		TreeNode* p = root;
+		// 用于保存中序遍历序列的上一节点
+		TreeNode* pre = nullptr;
+		// 用于设置返回的 root
+		bool isFirst = true;
+		while (p || v.size()) {
+			while (p) {
+				v.push_back(p);
+				p = p->left;
+			}
+			p = v.back();
+			v.pop_back();
+			if (isFirst) {
+				root = p;
+				pre = p;
+				isFirst = false;
+			} else {
+				pre->right = p;
+				p->left = pre;
+				pre = p;
+			}
+			p = p->right;
+		}
+		return root;
+	}
+};
