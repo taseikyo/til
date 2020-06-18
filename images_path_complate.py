@@ -27,15 +27,18 @@ def ipc(path=".", depth=0):
         if os.path.isdir(f"{path}/{file}"):
             ipc(f"{path}/{file}", depth+1)
         if file.endswith("md"):
+            # 发现了 tag 才会修改
+            tag = False
             print(f"{path}/{file} {depth}")
             with open(f"{path}/{file}", encoding="utf-8") as f:
                 lines = f.readlines()
             for x, y in enumerate(lines):
                 if y.find("-[") >= 0:
+                    tag = True
                     lines[x] = f"![]({'../'*depth}images/{y[2:-2]})"
-                    print(lines[x])
-            with open(f"{path}/{file}", "w", encoding="utf-8") as f:
-                f.write("".join(lines))
+            if tag:
+                with open(f"{path}/{file}", "w", encoding="utf-8") as f:
+                    f.write("".join(lines))
 
 
 if __name__ == "__main__":
