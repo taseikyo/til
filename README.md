@@ -21,6 +21,8 @@
 - [尾调用优化 / Tail Call Optimization](blog/tail-call-optimization.md)
 - [TCP 与 UDP 的区别](blog/tcp-vs-udp.md)
 - [Redis 简介 - CyC2018 / CS-Notes](blog/redis-cyc2018.md)
+- [存储系统中的各种写放大 / Write Amplification](blog/storage-system-write-amplification.md)
+- [跳表简介 / Skip List](blog/skip-list-intro.md)
 
 ### Book
 
