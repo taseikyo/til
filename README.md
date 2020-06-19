@@ -1,3 +1,5 @@
+建议本地配合 Markdown Preview Plus 扩展观看，由于有的地方使用了 latex 公式，直接在 GitHub 上看显示不了。
+
 ### Reference
 
 - [ascii codes](http://www.cplusplus.com/doc/ascii/)
@@ -31,6 +33,7 @@
 ### Course
 
 - [七月算法](course/july-algorithm)
+- [数据结构 - 郝斌](course/haobin-data-structure)
 
 ### License
 
