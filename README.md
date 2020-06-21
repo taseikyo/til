@@ -25,6 +25,7 @@
 - [Redis 简介 - CyC2018 / CS-Notes](blog/redis-cyc2018.md)
 - [存储系统中的各种写放大 / Write Amplification](blog/storage-system-write-amplification.md)
 - [跳表简介 / Skip List](blog/skip-list-intro.md)
+- [红黑树简介 / Red-Black Tree](blog/red-black-tree-intro.md)
 
 ### Book
 
