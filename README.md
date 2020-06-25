@@ -26,6 +26,7 @@
 - [存储系统中的各种写放大 / Write Amplification](blog/storage-system-write-amplification.md)
 - [跳表简介 / Skip List](blog/skip-list-intro.md)
 - [红黑树简介 / Red-Black Tree](blog/red-black-tree-intro.md)
+- [如何阅读复杂的 C 类型声明 / How To Read C Declarations / Clockwise/Spiral Rule](blog/how-to-read-c-declarations-spiral-rule-anderson.md)
 
 ### Book
 
