@@ -31,6 +31,7 @@
 ### Book
 
 - [Python One-Liners](book/python-one-liners)
+- [C++ Primer, 5th Edition](book/cpp-primer-5nd-edition)
 
 ### Course
 
