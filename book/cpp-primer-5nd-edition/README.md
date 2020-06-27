@@ -17,9 +17,9 @@
 	- [Chapter 2.Variables and Basic Types](src/02.variables-and-basic-types.md)
 	- [Chapter 3.Strings, Vectors, and Arrays](src/03.strings-vectors-and-arrays.md)
 	- [Chapter 4.Expressions](src/04.expressions.md)
-	- Chapter 5.Statements
-	- Chapter 6.Functions
-	- Chapter 7.Classes
+	- [Chapter 5.Statements](src/05.statements.md)
+	- [Chapter 6.Functions](src/06.functions.md)
+	- [Chapter 7.Classes](src/07.classes.md)
 - Part II: The C++ Library
 	- Chapter 8.The IO Library
 	- Chapter 9.Sequential Containers
