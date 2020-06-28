@@ -14,9 +14,9 @@
 
 - [1.Pythonic Thinking](src/01.pythonic-thinking.md)
 - [2.Lists and Dictionaries](src/02.lists-and-dictionaries.md)
-- 3.Functions
-- 4.Comprehensions and Generators
-- 5.Classes and Interfaces
+- [3.Functions](src/03.functions.md)
+- [4.Comprehensions and Generators](src/04.comprehensions-and-generators.md)
+- [5.Classes and Interfaces](src/05.classes-and-interfaces.md)
 - 6.Metaclasses and Attributes
 - 7.Concurrency and Parallelism
 - 8.Robustness and Performance
