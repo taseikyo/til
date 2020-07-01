@@ -21,8 +21,8 @@
 	- [Chapter 6.Functions](src/06.functions.md)
 	- [Chapter 7.Classes](src/07.classes.md)
 - Part II: The C++ Library
-	- Chapter 8.The IO Library
-	- Chapter 9.Sequential Containers
+	- [Chapter 8.The IO Library](src/08.the-io-library.md)
+	- [Chapter 9.Sequential Containers](src/09.sequential-containers.md)
 	- Chapter 10.Generic Algorithms
 	- Chapter 11.Associative Containers
 	- Chapter 12.Dynamic Memory
