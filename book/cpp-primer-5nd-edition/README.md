@@ -23,7 +23,7 @@
 - Part II: The C++ Library
 	- [Chapter 8.The IO Library](src/08.the-io-library.md)
 	- [Chapter 9.Sequential Containers](src/09.sequential-containers.md)
-	- Chapter 10.Generic Algorithms
+	- [Chapter 10.Generic Algorithms](src/10.generic-algorithms.md)
 	- Chapter 11.Associative Containers
 	- Chapter 12.Dynamic Memory
 - Part III: Tools for Class Authors
