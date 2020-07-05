@@ -21,6 +21,7 @@ class Solution {
 				base[1] = max(intervals[i][1], base[1]);
 			}
 		}
+        ans.push_back(base);
 		return ans;
 	}
 };
