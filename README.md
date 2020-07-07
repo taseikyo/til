@@ -16,6 +16,7 @@
 1. [如何遍历 vector](cpp/how-to-iterate-vector.md)
 2. [vector 与 char* 相互转换](cpp/conversion-between-vector-and-char-star.md)
 3. [C++ STL 简介](cpp/cpp-slt-intro.md)
+4. [关于 sizeof 的一些思考](cpp/some-thoughts-on-sizeof.md)
 
 ### Blog
 
