@@ -30,6 +30,7 @@
 - [如何阅读复杂的 C 类型声明 / How To Read C Declarations / Clockwise/Spiral Rule](blog/how-to-read-c-declarations-spiral-rule-anderson.md)
 - [数据库原理简介 - CyC2018 / CS-Notes](blog/database-system-principle-intro-cyc2018.md)
 - [如何在 main 函数之前执行其它函数](blog/how-to-run-other-functions-before-main-is-executed.md)
+-[STL 内存池简介](blog/stl-memory-pool-intro.md)
 
 ### Book
 
