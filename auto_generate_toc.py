@@ -55,14 +55,23 @@ def auto_generate_toc(filename):
             toc.append(f"{indent}- [{line}](#{line.replace(' ', '-').lower()})")
 
     for k, v in enumerate(lines):
-        if v.find("TOC") >= 0 or v.find("toc") >= 0:
+        if v.find("-[TOC]") >= 0 or v.find("-[toc]") >= 0:
             lines[k] = "## Table of Contents\n" + "\n".join(toc) + "\n"
             break
 
     with open(filename, "w", encoding="utf-8") as f:
         f.write("".join(lines))
 
+def main(path='.'):
+    files = os.listdir(path)
+    for file in files:
+        if file == ".git":
+            continue
+        if os.path.isdir(f"{path}/{file}"):
+            main(f"{path}/{file}")
+        if file.endswith("md"):
+            print(f"{path}/{file}")
+            auto_generate_toc(f"{path}/{file}")
 
 if __name__ == "__main__":
-    files = [x for x in os.listdir() if x.endswith("md")]
-    any(map(auto_generate_toc, files))
+    main()
