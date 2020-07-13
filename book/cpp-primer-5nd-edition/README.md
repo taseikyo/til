@@ -8,7 +8,7 @@
 
 - https://book.douban.com/subject/25708312/
 
-在看书过程中，我会记录下自己之前不懂或者没注意的知识点。
+在看书过程中，我会记录下自己之前不懂或者没注意的知识点。由于文字识别工具的原因，可能会出现英文符号与中文符号并存的现象，由于赶时间就没仔细修改了。
 
 ### Contents
 
@@ -25,7 +25,7 @@
 	- [Chapter 9.Sequential Containers](src/09.sequential-containers.md)
 	- [Chapter 10.Generic Algorithms](src/10.generic-algorithms.md)
 	- [Chapter 11.Associative Containers](src/11.associative-containers.md)
-	- Chapter 12.Dynamic Memory
+	- [Chapter 12.Dynamic Memory](src/12.dynamic-memory.md)
 - Part III: Tools for Class Authors
 	- Chapter 13.Copy Control
 	- Chapter 14.Overloaded Operations and Conversions
