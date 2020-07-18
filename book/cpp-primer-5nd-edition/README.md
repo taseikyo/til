@@ -27,7 +27,7 @@
 	- [Chapter 11.Associative Containers](src/11.associative-containers.md)
 	- [Chapter 12.Dynamic Memory](src/12.dynamic-memory.md)
 - Part III: Tools for Class Authors
-	- Chapter 13.Copy Control
+	- [Chapter 13.Copy Control](src/13.copy-control.md)
 	- Chapter 14.Overloaded Operations and Conversions
 	- Chapter 15.Object-Oriented Programming
 	- Chapter 16.Templates and Generic Programming
