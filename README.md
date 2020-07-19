@@ -32,6 +32,7 @@
 - [如何在 main 函数之前执行其它函数](blog/how-to-run-other-functions-before-main-is-executed.md)
 - [STL 内存池简介](blog/stl-memory-pool-intro.md)
 - [select、poll、epoll 之间的区别](blog/the-difference-between-select-poll-epoll.md)
+- [C++ 设计模式简介](blog/cpp-design-pattern-intro.md)
 
 ### Book
 
