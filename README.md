@@ -18,6 +18,11 @@
 3. [C++ STL 简介](cpp/cpp-slt-intro.md)
 4. [关于 sizeof 的一些思考](cpp/some-thoughts-on-sizeof.md)
 
+
+### Python
+
+- [从 7z 压缩包中读取文件](python/read-files-from-7z.md)
+
 ### Blog
 
 - [二叉树的莫里斯遍历 / Morris Traversal](blog/tree-morris-traversal.md)
