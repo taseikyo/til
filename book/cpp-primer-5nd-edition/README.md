@@ -29,7 +29,7 @@
 - Part III: Tools for Class Authors
 	- [Chapter 13.Copy Control](src/13.copy-control.md)
 	- [Chapter 14.Overloaded Operations and Conversions](src/14.overloaded-operations-and-conversions.md)
-	- Chapter 15.Object-Oriented Programming
+	- [Chapter 15.Object-Oriented Programming](src/15.object-oriented-programming.md)
 	- Chapter 16.Templates and Generic Programming
 - Part IV: Advanced Topics
 	- Chapter 17.Specialized Library Facilities
