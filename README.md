@@ -13,10 +13,12 @@
 
 ### C++
 
-1. [如何遍历 vector](cpp/how-to-iterate-vector.md)
-2. [vector 与 char* 相互转换](cpp/conversion-between-vector-and-char-star.md)
-3. [C++ STL 简介](cpp/cpp-slt-intro.md)
-4. [关于 sizeof 的一些思考](cpp/some-thoughts-on-sizeof.md)
+- [如何遍历 vector](cpp/how-to-iterate-vector.md)
+- [vector 与 char* 相互转换](cpp/conversion-between-vector-and-char-star.md)
+- [C++ STL 简介](cpp/cpp-slt-intro.md)
+- [关于 sizeof 的一些思考](cpp/some-thoughts-on-sizeof.md)
+- [虚函数简介](cpp/vtable-intro.md)
+- [C++ 设计模式简介](cpp/cpp-design-pattern-intro.md)
 
 
 ### Python
@@ -37,7 +39,8 @@
 - [如何在 main 函数之前执行其它函数](blog/how-to-run-other-functions-before-main-is-executed.md)
 - [STL 内存池简介](blog/stl-memory-pool-intro.md)
 - [select、poll、epoll 之间的区别](blog/the-difference-between-select-poll-epoll.md)
-- [C++ 设计模式简介](blog/cpp-design-pattern-intro.md)
+- [微信红包算法以及带上下限的红包算法](blog/wechat-red-envelope-algorithm-and-red-envelope-algorithm-with-upper-and-lower-limits.md)
+
 
 ### Book
 
