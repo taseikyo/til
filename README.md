@@ -20,6 +20,7 @@
 - [虚函数简介](cpp/vtable-intro.md)
 - [C++ 设计模式简介](cpp/cpp-design-pattern-intro.md)
 - [引用折叠和完美转发](cpp/reference-collapsing-and-perfect-forward-intro.md)
+- [奇妙的 enum class，enum struct 组合](cpp/enum-class-intro.md)
 
 ### Python
 
