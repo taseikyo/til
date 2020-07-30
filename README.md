@@ -54,6 +54,7 @@
 
 - [七月算法](course/july-algorithm)
 - [数据结构 - 郝斌](course/haobin-data-structure)
+- [MIT 18.06 Linear Algebra, Spring 2005](course/mit-18.06-linear-algebra-spring-2005)
 
 ### License
 
