@@ -42,6 +42,7 @@
 - [select、poll、epoll 之间的区别](blog/the-difference-between-select-poll-epoll.md)
 - [微信红包算法以及带上下限的红包算法](blog/wechat-red-envelope-algorithm-and-red-envelope-algorithm-with-upper-and-lower-limits.md)
 - [C++ 中的虚函数 (表) 实现机制以及用 C 语言对其进行的模拟实现](blog/the-implementation-mechanism-of-virtual-function-table-in-c++-and-its-implementation-in-c.md)
+- [平衡二叉树、B 树、B+ 树、B* 树理解其中一种你就都明白了](blog/b-tree-b+-tree-b-star-tree-intro.md)
 
 ### Book
 
