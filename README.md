@@ -21,6 +21,7 @@
 - [C++ 设计模式简介](cpp/cpp-design-pattern-intro.md)
 - [引用折叠和完美转发](cpp/reference-collapsing-and-perfect-forward-intro.md)
 - [奇妙的 enum class，enum struct 组合](cpp/enum-class-intro.md)
+- [C++11 继承构造函数](cpp/c11-inheriting-constructors-intro.md)
 
 ### Python
 
@@ -51,6 +52,7 @@
 - [C++ Primer, 5th Edition](book/cpp-primer-5nd-edition)
 - [Effective Python, 2nd Edition](book/effective-python-2nd-edition)
 - [算法竞赛入门经典](book/算法竞赛入门经典)
+- [程序员的自我修养](book/程序员的自我修养)
 
 ### Course
 
