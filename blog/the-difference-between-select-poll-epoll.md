@@ -129,8 +129,7 @@ epoll：[IO 多路复用之 epoll 总结](https://www.cnblogs.com/Anker/p/326378
 
 select 的调用过程如下所示：
 
--[137084-20180611142415772-1018872947.png]
-
+![](../images/137084-20180611142415772-1018872947.png)
 
 1. 使用 copy_from_user 从用户空间拷贝 fd_set 到内核空间
 2. 注册回调函数 `__pollwait`
