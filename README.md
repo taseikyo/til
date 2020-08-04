@@ -48,11 +48,11 @@
 
 ### Book
 
-- [Python One-Liners](book/python-one-liners)
-- [C++ Primer, 5th Edition](book/cpp-primer-5nd-edition)
-- [Effective Python, 2nd Edition](book/effective-python-2nd-edition)
-- [算法竞赛入门经典](book/算法竞赛入门经典)
-- [程序员的自我修养](book/程序员的自我修养)
+- [Python One-Liners](book/python-one-liners) ❌❌
+- [C++ Primer, 5th Edition](book/cpp-primer-5nd-edition) 👍👍
+- [Effective Python, 2nd Edition](book/effective-python-2nd-edition)  👍👍
+- [算法竞赛入门经典](book/算法竞赛入门经典) 👍👍
+- [程序员的自我修养](book/程序员的自我修养) 👍👍
 - [Tiny Python Projects](book/tiny-python-projects)
 
 ### Course
