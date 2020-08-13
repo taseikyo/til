@@ -31,6 +31,8 @@ class Solution {
 			if (headA == headB) {
 				return headA;
 			}
+            headA = headA->next;
+            headB = headB->next;
 		}
 		return nullptr;
 	}
