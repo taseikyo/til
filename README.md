@@ -59,6 +59,7 @@
 - [算法竞赛入门经典](book/算法竞赛入门经典) 👍👍
 - [程序员的自我修养](book/程序员的自我修养) 👍👍
 - [Tiny Python Projects](book/tiny-python-projects)
+- [Linux System Programming, 2nd Edition](book/linux-system-programming-2nd-edition)
 
 ### Course
 
