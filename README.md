@@ -30,6 +30,7 @@
 ### Python
 
 - [从 7z 压缩包中读取文件](python/read-files-from-7z.md)
+- [doctest 测试模块使用简介](python/doctest-intro.md)
 
 ### Blog
 
