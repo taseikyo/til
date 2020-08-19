@@ -8,6 +8,8 @@
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [nayuki / Project-Euler-solutions](https://github.com/nayuki/Project-Euler-solutions)
 - [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
+- [CyC2018/CS-Notes：技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
+- [huihut/interview：C/C++ 技术面试基础知识总结](https://github.com/huihut/interview)
 
 ### Code
 
