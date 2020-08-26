@@ -53,6 +53,7 @@
 - [平衡二叉树、B 树、B+ 树、B* 树理解其中一种你就都明白了](blog/b-tree-b+-tree-b-star-tree-intro.md)
 - [哈夫曼树（赫夫曼树、最优树）及C语言实现](blog/huffman-tree-intro.md)
 - [一文详解 TCP/IP 协议栈](blog/tcp-ip-protocol-stack-intro.md)
+- [数据库 SQL 调优的几种方式](blog/several-ways-of-sql-tuning.md)
 
 ### Book
 
