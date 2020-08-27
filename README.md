@@ -54,6 +54,7 @@
 - [哈夫曼树（赫夫曼树、最优树）及C语言实现](blog/huffman-tree-intro.md)
 - [一文详解 TCP/IP 协议栈](blog/tcp-ip-protocol-stack-intro.md)
 - [数据库 SQL 调优的几种方式](blog/several-ways-of-sql-tuning.md)
+- [C++ 后端开发面经整理 - 牛客网](blog/cpp-back-end-developer-interview-experience-record.md)
 
 ### Book
 
