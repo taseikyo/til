@@ -29,6 +29,7 @@
 - [奇妙的 enum class，enum struct 组合](cpp/enum-class-intro.md)
 - [C++11 继承构造函数](cpp/c11-inheriting-constructors-intro.md)
 - [子类如何调用父类重载的运算符](cpp/subclass-calls-the-operator-overloaded-by-the-parent-class.md)
+- [五种排序算法的 C++ 实现以及时间分析](cpp/comparison-of-sorting-algos)
 
 ### Python
 
