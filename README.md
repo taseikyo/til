@@ -28,6 +28,7 @@
 - [引用折叠和完美转发](cpp/reference-collapsing-and-perfect-forward-intro.md)
 - [奇妙的 enum class，enum struct 组合](cpp/enum-class-intro.md)
 - [C++11 继承构造函数](cpp/c11-inheriting-constructors-intro.md)
+- [子类如何调用父类重载的运算符](cpp/subclass-calls-the-operator-overloaded-by-the-parent-class.md)
 
 ### Python
 
