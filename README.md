@@ -13,9 +13,9 @@
 
 ### Code
 
-- [leetcode](leetcode)
-- [coding-interviews](coding-interviews)
-- [cracking-the-coding-interview](cracking-the-coding-interview)
+- [leetcode](code/leetcode)
+- [coding-interviews](code/coding-interviews)
+- [cracking-the-coding-interview](code/cracking-the-coding-interview)
 
 ### C++
 
