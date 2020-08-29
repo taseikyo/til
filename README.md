@@ -58,7 +58,7 @@
 - [数据库 SQL 调优的几种方式](blog/several-ways-of-sql-tuning.md)
 - [C++ 后端开发面经整理 - 牛客网](blog/cpp-back-end-developer-interview-experience-record.md)
 - [几种洗牌与抽样算法](blog/shuffle-and-sampling-algos.md)
-- [漫谈数据库索引](blog/talking-about-database-index.md)
+- [所有 blog 文章>>](blog.md)
 
 ### Book
 
