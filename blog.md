@@ -25,3 +25,4 @@
 - [数据库中 DQL、DML、DDL 与 DCL 的概念与区别](blog/concepts-and-differences-between-dql-dml-ddl-and-dcl.md)
 - [SQL 注入基础原理](blog/basic-principles-of-sql-injection.md)
 - [SQL 中的 aggregate 函数和 scalar 函数](blog/the-aggregate-function-and-scalar-function-in-sql.md)
+- [聚集索引和非聚集索引](blog/clustered-index-and-non-clustered-index-intro.md)
