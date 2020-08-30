@@ -22,3 +22,4 @@
 - [几种洗牌与抽样算法](blog/shuffle-and-sampling-algos.md)
 - [漫谈数据库索引](blog/talking-about-database-index.md)
 - [数据库事务四种隔离级别的加锁机制](blog/locking-mechanism-for-four-isolation-levels-of-database-transactions.md)
+- [数据库中 DQL、DML、DDL 与 DCL 的概念与区别](blog/concepts-and-differences-between-dql-dml-ddl-and-dcl.md)
