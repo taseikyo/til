@@ -10,6 +10,56 @@
 
 昨天（20-8-29）农行笔试分三部分，第一部分是单选题，第二部分是编程，第三部分是性格测试。第一部分又分为若干部分，其中数据库的比重较大，很多数据库基础知识，如基本的 SQL 语句，数据库的范式等等，其中就考到了 DCL，原题不记得了，就是给出了几个命令（SELECT DROP REVOKE INSERT）哪一个属于 DCL，于是来搜一下数据库一共分哪几种语句，以及他们之间的区别。
 
+## GFG
+
+- https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
+
+![](../images/Types-of-SQL-Commands.jpg)
+
+来自 gfg 的图片，一下子归类好了，舒服！
+
+### 1. DDL(Data Definition Language)
+
+DDL or Data Definition Language actually consists of the SQL commands that can be used to define the database schema. It simply deals with descriptions of the database schema and is used to create and modify the structure of database objects in the database.
+
+- CREATE - is used to create the database or its objects (like table, index, function, views, store procedure and triggers).
+- DROP - is used to delete objects from the database.
+- ALTER - is used to alter the structure of the database.
+- TRUNCATE - is used to remove all records from a table, including all spaces allocated for the records are removed.
+- COMMENT - is used to add comments to the data dictionary.
+- RENAME - is used to rename an object existing in the database.
+
+### 2. DQL (Data Query Language)
+
+DML statements are used for performing queries on the data within schema objects. The purpose of DQL Command is to get some schema relation based on the query passed to it.
+
+- SELECT - is used to retrieve data from the a database.
+
+### 3. DML(Data Manipulation Language)
+
+The SQL commands that deals with the manipulation of data present in the database belong to DML or Data Manipulation Language and this includes most of the SQL statements.
+
+- INSERT - is used to insert data into a table.
+- UPDATE - is used to update existing data within a table.
+- DELETE - is used to delete records from a database table.
+
+### 4. DCL(Data Control Language)
+
+DCL includes commands such as GRANT and REVOKE which mainly deals with the rights, permissions and other controls of the database system.
+
+- GRANT-gives user’s access privileges to database.
+- REVOKE-withdraw user’s access privileges given by using the GRANT command.
+
+### 5. TCL(transaction Control Language)
+
+TCL commands deals with the transaction within the database.
+
+- COMMIT - commits a Transaction.
+- ROLLBACK - rollbacks a transaction in case of any error occurs.
+- SAVEPOINT - sets a savepoint within a transaction.
+- SET TRANSACTION - specify characteristics for the transaction.
+
+
 ## DDL
 
 DDL(Data Definition Language 数据定义语言)用于操作对象和对象的属性，这种对象包括数据库本身，以及数据库对象，像：表、视图等等，DDL 对这些对象和属性的管理和定义具体表现在 Create、Drop 和 Alter 上。特别注意：DDL 操作的 “对象” 的概念，”对象“包括对象及对象的属性，而且对象最小也比记录大个层次。以表举例：Create 创建数据表，Alter 可以更改该表的字段，Drop 可以删除这个表，从这里我们可以看到，DDL 所站的高度，他不会对具体的数据进行操作。
