@@ -6,6 +6,8 @@
 
 # [Manning] Tiny Python Projects
 
+- https://book.douban.com/subject/34960758
+
 <img src="https://images.manning.com/360/480/resize/book/b/59c1ef8-8b3a-4bce-afe3-c9e62524ba8e/Youens-Clark-TPP-HI.png" title="Tiny Python Projects" alt="Tiny Python Projects">
 
 ## Table of Contents
