@@ -30,3 +30,4 @@
 - [数据库中的 WAL 是什么](blog/what-is-wal-in-database.md)
 - [ping 命令用的什么协议](blog/what-protocol-is-used-for-the-ping-command.md)
 - [MySQL 中的几种 join 方式](blog/several-joins-of-mysql.md)
+- [Linux/malloc 内存分配原理](blog/linux-malloc-memory-allocation-principle.md)
