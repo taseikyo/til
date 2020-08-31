@@ -28,3 +28,4 @@
 - [聚集索引和非聚集索引](blog/clustered-index-and-non-clustered-index-intro.md)
 - [C++ 内存泄漏及检测](blog/cpp-memory-leak-and-detection.md)
 - [数据库中的 WAL 是什么](blog/what-is-wal-in-database.md)
+- [ping 命令用的什么协议](blog/what-protocol-is-used-for-the-ping-command.md)
