@@ -29,14 +29,14 @@ def ipc(path=".", depth=0):
         if file.endswith("md"):
             # 发现了 tag 才会修改
             tag = False
-            print(f"{path}/{file} {depth}")
             with open(f"{path}/{file}", encoding="utf-8") as f:
                 lines = f.readlines()
             for x, y in enumerate(lines):
-                if y.find("-[") >= 0:
+                if y.find("-[") == 0:
                     tag = True
-                    lines[x] = f"![]({'../'*depth}images/{y[2:-2]})"
+                    lines[x] = f"![]({'../'*depth}images/{y[2:-2]})\n"
             if tag:
+                print(f"{path}/{file} {depth}")
                 with open(f"{path}/{file}", "w", encoding="utf-8") as f:
                     f.write("".join(lines))
 
