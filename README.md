@@ -33,6 +33,7 @@
 - [子类如何调用父类重载的运算符](cpp/subclass-calls-the-operator-overloaded-by-the-parent-class.md)
 - [五种排序算法的 C++ 实现以及时间分析](cpp/comparison-of-sorting-algos)
 - [模板的全特化与偏特化](cpp/full-specialization-and-partial-specialization-of-templates.md)
+- [shared_ptr 传参和复制的引用计数问题](cpp/shared_ptr-reference-counting-problem-of-parameter-passing-and-copying.md)
 
 ### Python
 
