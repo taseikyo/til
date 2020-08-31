@@ -15,6 +15,7 @@
 
 ### Code
 
+- [算法题常用技巧 - taseikyo 总结版](code/tricks-to-algo-problems-taseikyo.md)
 - [leetcode](code/leetcode)
 - [coding-interviews](code/coding-interviews)
 - [cracking-the-coding-interview](code/cracking-the-coding-interview)
