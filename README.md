@@ -35,6 +35,7 @@
 - [五种排序算法的 C++ 实现以及时间分析](cpp/comparison-of-sorting-algos)
 - [模板的全特化与偏特化](cpp/full-specialization-and-partial-specialization-of-templates.md)
 - [shared_ptr 传参和复制的引用计数问题](cpp/shared_ptr-reference-counting-problem-of-parameter-passing-and-copying.md)
+- [new object() 和 new object 区别][cpp-200901]
 
 ### Python
 
@@ -85,3 +86,5 @@
 ### License
 
 Copyright (c) 2020 Lewis Tian. Licensed under the MIT license.
+
+[cpp-200901]:cpp/the-difference-between-new-object()-and-new-object.md
