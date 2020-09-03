@@ -20,6 +20,10 @@
 - [coding-interviews](code/coding-interviews)
 - [cracking-the-coding-interview](code/cracking-the-coding-interview)
 
+### DIY-Algos
+
+- [动手实现一个 string 类（C++）](cpp/diy-algos/string)
+
 ### C++
 
 - [如何遍历 vector](cpp/how-to-iterate-vector.md)
