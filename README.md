@@ -42,6 +42,7 @@
 - [shared_ptr 传参和复制的引用计数问题](cpp/shared_ptr-reference-counting-problem-of-parameter-passing-and-copying.md)
 - [new object() 和 new object 区别][cpp-200901]
 - [模板类的声明与定义分开放置编译的问题](cpp/why-can't-i-separate-the-definition-of-my-templates-class-from-its-declaration-and-put-it-inside-a-cpp-file.md)
+- [解决模板类的编译问题](cpp/how-can-i-avoid-linker-errors-with-my-template-functions.md)
 
 ### Python
 
