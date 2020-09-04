@@ -23,6 +23,7 @@
 ### DIY-Algos
 
 - [动手实现一个 string 类（C++）](cpp/diy-algos/string)
+- [动手实现一个 shared_ptr 类](cpp/diy-algos/shared_ptr)，遇到了模板类的声明与定义分开放置编译的问题（见下面）
 
 ### C++
 
