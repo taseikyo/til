@@ -32,3 +32,4 @@
 - [MySQL 中的几种 join 方式](blog/several-joins-of-mysql.md)
 - [Linux/malloc 内存分配原理](blog/linux-malloc-memory-allocation-principle.md)
 - [Timing Wheels / 时间轮定时器简介](blog/timing-wheels-intro.md)
+- [Linux 的信号机制](blog/linux-signal-mechanism.md)
