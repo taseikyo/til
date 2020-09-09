@@ -19,6 +19,7 @@
 - [leetcode](code/leetcode)
 - [coding-interviews](code/coding-interviews)
 - [cracking-the-coding-interview](code/cracking-the-coding-interview)
+- [每日一道有趣的编程题](code/daily-problem)
 
 ### DIY-Algos
 
