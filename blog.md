@@ -36,3 +36,4 @@
 - [Linux 本地进程间 socket 通信](blog/linux-socket-local-inter-process-communication.md)
 - [正向代理与反向代理的区别](blog/the-difference-between-forward-proxy-and-reverse-proxy.md)
 - [TCP 长连接的原理](blog/the-principle-of-tcp-long-connection.md)
+- [C++ 的返回值优化以及右值拷贝](blog/cpp-return-value-optimization-and-rvalue-copy.md)
