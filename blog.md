@@ -38,3 +38,4 @@
 - [TCP 长连接的原理](blog/the-principle-of-tcp-long-connection.md)
 - [C++ 的返回值优化以及右值拷贝](blog/cpp-return-value-optimization-and-rvalue-copy.md)
 - [strncpy 与 strncat 当 n 大于字符串长度时的区别](blog/the-difference-between-strncpy-and-strncat-when-n-is-greater-than-the-length-of-the-string.md)
+- [C++ 11 多线程介绍](blog/c11-multi-threads-intro.md)
