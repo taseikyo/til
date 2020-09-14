@@ -1,3 +1,7 @@
+<p align="center">
+	<a href="#readme"><img src="images/til-everydaycat.jpg" alt="Today I Learned" title="Today I Learned"></a>
+</p>
+
 建议本地配合 Markdown Preview Plus 扩展观看，由于有的地方使用了 latex 公式，直接在 GitHub 上看显示不了。
 
 加文件头（`@Date` `@Author`）是因为我喜欢给东西打上时间的 tag，有时间 tag 的东西后面回头看会很有沉淀感，我很喜欢这种感觉。从某个时间点之后我都是用 [简读](https://simpread.pro/) 直接转的 md，然后会手动加上作者与发布时间。
