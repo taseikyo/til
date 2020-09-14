@@ -41,3 +41,4 @@
 - [C++ 11 多线程介绍](blog/c11-multi-threads-intro.md)
 - [从 read 看系统调用的耗时](blog/look-at-the-time-consumption-of-system-calls-from-read.md)
 - [Linux 下快速创建大文件命令](blog/create-large-files-command-linux.md)
+- [Linux Shell 实现随机数多种方法](blog/multiple-methods-to-implement-random-numbers-linux.md)
