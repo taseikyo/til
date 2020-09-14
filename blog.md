@@ -42,3 +42,4 @@
 - [从 read 看系统调用的耗时](blog/look-at-the-time-consumption-of-system-calls-from-read.md)
 - [Linux 下快速创建大文件命令](blog/create-large-files-command-linux.md)
 - [Linux Shell 实现随机数多种方法](blog/multiple-methods-to-implement-random-numbers-linux.md)
+- [PowerShell 设置命令别名](blog/powershell-set-command-alias.md)
