@@ -43,3 +43,4 @@
 - [Linux 下快速创建大文件命令](blog/create-large-files-command-linux.md)
 - [Linux Shell 实现随机数多种方法](blog/multiple-methods-to-implement-random-numbers-linux.md)
 - [PowerShell 设置命令别名](blog/powershell-set-command-alias.md)
+- [Python 内存管理简介](blog/python-memory-management-intro.md)
