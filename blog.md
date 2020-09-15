@@ -45,3 +45,4 @@
 - [PowerShell 设置命令别名](blog/powershell-set-command-alias.md)
 - [Python 内存管理简介](blog/python-memory-management-intro.md)
 - [HTTPS 建立连接的详细过程](blog/the-detailed-process-of-https-connection-establishment.md)
+- [VS 或者 GCC 下查看类的虚表布局](blog/view-the-virtual-table-layout-of-the-class-under-vs-or-gcc.md)
