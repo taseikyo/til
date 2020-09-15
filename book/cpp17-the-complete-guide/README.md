@@ -14,7 +14,7 @@
 
 - Part1: Basic Language Features
 	- [1.Structured Bindings](src/01.structured-bindings.md)
-	- 2.if and switch with Initialization
+	- [2.if and switch with Initialization](src/02.if-and-switch-with-initialization.md)
 	- 3.Inline Variables
 	- 4.Aggregate Extensions
 	- 5.Mandatory Copy Elision or Passing Unmaterialized Objects
