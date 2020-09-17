@@ -16,7 +16,7 @@
 
 ## Table of Contents
 
-- Part1: Basic Language Features
+- Part I: Basic Language Features
 	- [1.Structured Bindings](src/01.structured-bindings.md)
 	- [2.if and switch with Initialization](src/02.if-and-switch-with-initialization.md)
 	- [3.Inline Variables](src/03.inline-variables.md)
@@ -24,4 +24,4 @@
 	- [5.Mandatory Copy Elision or Passing Unmaterialized Objects](src/05.mandatory-copy-elision-or-passing-unmaterialized-objects.md)
 	- [6.Lambda Extensions](src/06.lambda-extensions.md)
 	- [7.New Attributes and Attribute Features](src/07.new-attributes-and-attribute-features.md)
-	- 8.Other Language Features
+	- [8.Other Language Features](src/08.other-language-features.md)
