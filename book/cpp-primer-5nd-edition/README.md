@@ -32,6 +32,6 @@
 	- [Chapter 15.Object-Oriented Programming](src/15.object-oriented-programming.md)
 	- Chapter 16.Templates and Generic Programming
 - Part IV: Advanced Topics
-	- Chapter 17.Specialized Library Facilities
+	- [Chapter 17.Specialized Library Facilities](src/17.specialized-library-facilities.md)
 	- Chapter 18.Tools for Large Programs
 	- Chapter 19.Specialized Tools and Techniques
