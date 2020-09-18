@@ -89,7 +89,8 @@
 - [Tiny Python Projects](book/tiny-python-projects)
 - [Linux System Programming, 2nd Edition](book/linux-system-programming-2nd-edition)
 - [剑指 Offer](book/剑指Offer)
-- [C++17 - The Complete Guide](book/cpp17-the-complete-guide)
+- [C++17 - The Complete Guide](book/cpp17-the-complete-guide) 👍
+- [Fluent Python（流畅的 Python）](book/fluent-python) 👍
 
 ### Course
 
