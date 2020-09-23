@@ -25,3 +25,10 @@
 	- [6.Lambda Extensions](src/06.lambda-extensions.md)
 	- [7.New Attributes and Attribute Features](src/07.new-attributes-and-attribute-features.md)
 	- [8.Other Language Features](src/08.other-language-features.md)
+- Part II: Template Features
+	- [9.Class Template Argument Deduction](src/09.class-template-argument-deduction.md)
+	- [10.Compile-Time if](src/10.compile-time-if.md)
+	- [11.Fold Expressions](src/11.fold-expressions.md)
+	- [Dealing with String Literals as Template Parameters](src/12.dealing-with-string-literals-as-template-parameters.md)
+	- [Placeholder Types like auto as Template Parameters](src/13.placeholder-types-like-auto-as-template-parameters.md)
+	- [Extended Using Declarations](src/14.extended-using-declarations.md)
