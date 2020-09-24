@@ -43,7 +43,14 @@ CPU 体系结构、汇编、C语言（包括 C++）和操作系统，永远都�
 	- 4.6 链接过程控制
 	- 4.7 BFD库
 	- 4.8 本章小结
-5. Windows PE/COFF
+5. [Windows PE/COFF](src/05.windows-pe-coff.md)
+	- 5.1 Windows 的二进制文件格式 PE/COFF
+	- 5.2 PE 的前身：COFF
+	- 5.3 链接指示信息
+	- 5.4 调试信息
+	- 5.5 大家都有符号表
+	- 5.6 Windows 下的 ELF：PE
+	- 5.7 本章小结
 6. 可执行文件的装载与进程
 7. 动态链接
 8. Linux共享库的组织
