@@ -47,4 +47,5 @@
 - [HTTPS 建立连接的详细过程](blog/the-detailed-process-of-https-connection-establishment.md)
 - [VS 或者 GCC 下查看类的虚表布局](blog/view-the-virtual-table-layout-of-the-class-under-vs-or-gcc.md)
 - [C++ 虚函数、虚继承内存模型](blog/cpp-virtual-function-and-virtual-inheritance-memory-model.md)
-- [Linux TTY/PTS 概述](src/linux-tty-pts-overview.md)
+- [Linux TTY/PTS 概述](blog/linux-tty-pts-overview.md)
+- [GitHub 仓库中删除历史大文件](blog/delete-historical-large-files-in-github-warehouse.md)
