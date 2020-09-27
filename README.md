@@ -6,6 +6,17 @@
 
 加文件头（`@Date` `@Author`）是因为我喜欢给东西打上时间的 tag，有时间 tag 的东西后面回头看会很有沉淀感，我很喜欢这种感觉。从某个时间点之后我都是用 [简读](https://simpread.pro/) 直接转的 md，然后会手动加上作者与发布时间。
 
+## Table of Contents
+
+- [Reference：有用链接](#reference)
+- [Code：刷题的代码](#code)
+- [DIY-Algos：自己实现的辣鸡类](#diy-algos)
+- [C++：关于 C艹 的一些技巧或者文章](#c++)
+- [Python：关于 Python 的一些技巧或者文章](#python)
+- [Blog：有趣有技术的技术博客](#blog)
+- [Book：看过的书的记录](#book)
+- [Course：看过的公开课或者技术课的记录](#course)
+
 ### Reference
 
 - [ascii codes](http://www.cplusplus.com/doc/ascii/)
@@ -92,6 +103,7 @@
 - [x] [剑指 Offer](book/剑指Offer)
 - [C++17 - The Complete Guide](book/cpp17-the-complete-guide) 👍
 - [Fluent Python（流畅的 Python）](book/fluent-python) 👍
+- [CSAPP: Computer Systems: A Programmer's Perspective, 3rd Edition](book/computer-systems-a-programmers-perspective-3rd-edition) 👍👍
 
 ### Course
 
