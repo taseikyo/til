@@ -18,3 +18,5 @@
 	- [2.An Array of Sequences](src/02.an-array-of-sequences.md)
 	- [3.Dictionaries and Sets](src/03.dictionaries-and-sets.md)
 	- [4.Text versus Bytes](src/04.text-versus-bytes.md)
+	- [5.First-Class Functions](src/05.first-class-functions.md)
+	- [6.Design Patterns with First-Class Functions](src/06.design-patterns-with-first-class-functions.md)
