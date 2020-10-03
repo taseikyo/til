@@ -49,3 +49,4 @@
 - [C++ 虚函数、虚继承内存模型](blog/cpp-virtual-function-and-virtual-inheritance-memory-model.md)
 - [Linux TTY/PTS 概述](blog/linux-tty-pts-overview.md)
 - [GitHub 仓库中删除历史大文件](blog/delete-historical-large-files-in-github-warehouse.md)
+- [git merge 的三种操作：merge, squash merge 和 rebase merge](blog/three-git-merge-operations-merge-squash-rebase-merge.md)
