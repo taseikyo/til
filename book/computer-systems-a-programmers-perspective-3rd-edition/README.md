@@ -21,3 +21,5 @@
 
 - Part II 在系统上运行程序
 	- [7.链接](src/07.linking.md)
+	- [8.异常控制流](src/08.exceptional-control-flow.md)
+	- [9.虚拟内存](src/09.virtual-memory.md)
