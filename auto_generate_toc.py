@@ -23,46 +23,70 @@ import os
 # then h2 indent is zero '\t'
 HAS_L1_TOC = False
 
+ILLEGAL_CHARS = [".", '"', "'", "，", "。", "、", "？", "："]
+
 
 def auto_generate_toc(filename):
-    print(f"generate toc for {filename}")
     with open(filename, encoding="utf-8") as f:
         lines = f.readlines()
 
     toc = []
     top_level = 4 if HAS_L1_TOC else 3
+    has_toc = False
 
     for line in lines:
+        jmp_anchor = line.rstrip().lower()
+        for ch in ILLEGAL_CHARS:
+            jmp_anchor = jmp_anchor.replace(ch, "")
+
         if line.startswith("#####"):
             line = line.replace("##### ", "").strip()
+            jmp_anchor = jmp_anchor.replace("##### ", "").replace(" ", "-")
             indent = "\t" * top_level
-            toc.append(f"{indent}- [{line}](#{line.replace(' ', '-').lower()})")
+            toc.append(f"{indent}- [{line}](#{jmp_anchor})")
         elif line.startswith("####"):
             line = line.replace("#### ", "").strip()
+            jmp_anchor = jmp_anchor.replace("#### ", "").replace(" ", "-")
             indent = "\t" * (top_level - 1)
-            toc.append(f"{indent}- [{line}](#{line.replace(' ', '-').lower()})")
+            toc.append(f"{indent}- [{line}](#{jmp_anchor})")
         elif line.startswith("###"):
             line = line.replace("### ", "").strip()
+            jmp_anchor = jmp_anchor.replace("### ", "").replace(" ", "-")
             indent = "\t" * (top_level - 2)
-            toc.append(f"{indent}- [{line}](#{line.replace(' ', '-').lower()})")
+            toc.append(f"{indent}- [{line}](#{jmp_anchor})")
         elif line.startswith("##"):
             line = line.replace("## ", "").strip()
+            jmp_anchor = jmp_anchor.replace("## ", "").replace(" ", "-")
             indent = "\t" * (top_level - 3)
-            toc.append(f"{indent}- [{line}](#{line.replace(' ', '-').lower()})")
+            toc.append(f"{indent}- [{line}](#{jmp_anchor})")
         elif line.startswith("#"):
+            """
+            #include
+            #define
+            """
+            if line[1] != ' ':
+                continue
             line = line.replace("# ", "").strip()
+            jmp_anchor = jmp_anchor.replace("# ", "").replace(" ", "-")
             indent = "\t" * (top_level - 4)
-            toc.append(f"{indent}- [{line}](#{line.replace(' ', '-').lower()})")
+            toc.append(f"{indent}- [{line}](#{jmp_anchor})")
 
     for k, v in enumerate(lines):
         if v.find("-[TOC]") >= 0 or v.find("-[toc]") >= 0:
             lines[k] = "## Table of Contents\n" + "\n".join(toc) + "\n"
+            has_toc = True
             break
+
+    if not has_toc:
+        return
 
     with open(filename, "w", encoding="utf-8") as f:
         f.write("".join(lines))
 
-def main(path='.'):
+    print(f"generate toc for {filename}")
+
+
+def main(path="."):
     files = os.listdir(path)
     for file in files:
         if file == ".git":
@@ -70,8 +94,9 @@ def main(path='.'):
         if os.path.isdir(f"{path}/{file}"):
             main(f"{path}/{file}")
         if file.endswith("md"):
-            print(f"{path}/{file}")
+            # print(f"{path}/{file}")
             auto_generate_toc(f"{path}/{file}")
+
 
 if __name__ == "__main__":
     main()
