@@ -96,7 +96,7 @@
 - [x] [Python One-Liners](book/python-one-liners) ❌❌
 - [C++ Primer, 5th Edition](book/cpp-primer-5nd-edition) 👍👍
 - [Effective Python, 2nd Edition](book/effective-python-2nd-edition)  👍👍
-- [算法竞赛入门经典](book/算法竞赛入门经典) 👍👍
+- [算法竞赛入门经典](book/算法竞赛入门经典) 👍
 - [程序员的自我修养](book/程序员的自我修养) 👍👍
 - [Tiny Python Projects](book/tiny-python-projects)
 - [Linux System Programming, 2nd Edition](book/linux-system-programming-2nd-edition)
@@ -104,6 +104,7 @@
 - [C++17 - The Complete Guide](book/cpp17-the-complete-guide) 👍
 - [Fluent Python（流畅的 Python）](book/fluent-python) 👍
 - [CSAPP: Computer Systems: A Programmer's Perspective, 3rd Edition](book/computer-systems-a-programmers-perspective-3rd-edition) 👍👍
+- [Pointers on C（C 和指针）](book/pointers-on-c)
 
 ### Course
 
