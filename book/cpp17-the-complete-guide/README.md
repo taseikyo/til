@@ -29,6 +29,9 @@
 	- [9.Class Template Argument Deduction](src/09.class-template-argument-deduction.md)
 	- [10.Compile-Time if](src/10.compile-time-if.md)
 	- [11.Fold Expressions](src/11.fold-expressions.md)
-	- [Dealing with String Literals as Template Parameters](src/12.dealing-with-string-literals-as-template-parameters.md)
-	- [Placeholder Types like auto as Template Parameters](src/13.placeholder-types-like-auto-as-template-parameters.md)
-	- [Extended Using Declarations](src/14.extended-using-declarations.md)
+	- [12.Dealing with String Literals as Template Parameters](src/12.dealing-with-string-literals-as-template-parameters.md)
+	- [13.Placeholder Types like auto as Template Parameters](src/13.placeholder-types-like-auto-as-template-parameters.md)
+	- [14.Extended Using Declarations](src/14.extended-using-declarations.md)
+- Part III: New Library Components
+	- [15.`std::optional<>`](src/15.std-optional.md)
+	- [16.`std::variant<>`](src/16.std-variant.md)
