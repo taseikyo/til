@@ -23,7 +23,20 @@ import os
 # then h2 indent is zero '\t'
 HAS_L1_TOC = False
 
-ILLEGAL_CHARS = [".", '"', "'", "，", "。", "、", "？", "："]
+ILLEGAL_CHARS = [
+    ".",
+    '"',
+    "'",
+    "，",
+    "。",
+    "、",
+    "？",
+    "：",
+    "`",
+    ":",
+    "<",
+    ">",
+]
 
 
 def auto_generate_toc(filename):
@@ -64,7 +77,7 @@ def auto_generate_toc(filename):
             #include
             #define
             """
-            if line[1] != ' ':
+            if line[1] != " ":
                 continue
             line = line.replace("# ", "").strip()
             jmp_anchor = jmp_anchor.replace("# ", "").replace(" ", "-")
