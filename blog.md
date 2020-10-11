@@ -52,3 +52,4 @@
 - [git merge 的三种操作：merge, squash merge 和 rebase merge](blog/three-git-merge-operations-merge-squash-rebase-merge.md)
 - [Ubuntu 18.04 中的 dpkg 警告解决方案](blog/dpkg-warning-solution-in-ubuntu-1804.md)
 - [Ubuntu 登陆时 .bashrc 没有执行](blog/bashrc-was-not-executed-when-logging-in.md)
+- [ubuntu 内核编译教程－编译 linux 4.10 内核](blog/ubuntu-kernel-compilation-tutorial-compile-linux4.10-kernel.md)
