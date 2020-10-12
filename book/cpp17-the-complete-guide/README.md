@@ -35,3 +35,4 @@
 - Part III: New Library Components
 	- [15.`std::optional<>`](src/15.std-optional.md)
 	- [16.`std::variant<>`](src/16.std-variant.md)
+	- [17.`std::any`](src/17.std-any.md)
