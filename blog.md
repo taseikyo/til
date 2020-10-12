@@ -55,3 +55,4 @@
 - [ubuntu 内核编译教程－编译 linux 4.10 内核](blog/ubuntu-kernel-compilation-tutorial-compile-linux4.10-kernel.md)
 - [怎样获取进程的路径](blog/how-to-get-the-path-of-the-process.md)
 - [Getting the CR3 value for a PID in Linux](blog/getting-the-cr3-value-for-a-pid-in-linux.md)
+- [大页内存在虚拟化中的应用](blog/use-of-large-page-memory-in-virtualization.md)
