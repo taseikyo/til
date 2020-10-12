@@ -36,3 +36,4 @@
 	- [15.`std::optional<>`](src/15.std-optional.md)
 	- [16.`std::variant<>`](src/16.std-variant.md)
 	- [17.`std::any`](src/17.std-any.md)
+	- [18.`std::byte`](src/18.std-byte.md)
