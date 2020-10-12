@@ -54,3 +54,4 @@
 - [Ubuntu 登陆时 .bashrc 没有执行](blog/bashrc-was-not-executed-when-logging-in.md)
 - [ubuntu 内核编译教程－编译 linux 4.10 内核](blog/ubuntu-kernel-compilation-tutorial-compile-linux4.10-kernel.md)
 - [怎样获取进程的路径](blog/how-to-get-the-path-of-the-process.md)
+- [Getting the CR3 value for a PID in Linux](blog/getting-the-cr3-value-for-a-pid-in-linux.md)

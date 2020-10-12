@@ -34,7 +34,7 @@ xz -d linux-4.10.tar.xz
 tar –xvf linux-4.10.tar
 ```
 
--[4958474-3e3b1ed75fddba42.webp]
+![](../images/4958474-3e3b1ed75fddba42.webp)
 
 解压后得到 linux.4.10，然后将内核目录 linux-4.10 复制到 /usr/src，然后进入 /usr/src
 
@@ -60,7 +60,7 @@ cd linux-4.10
 
 选择 load→OK→Save→OK→EXIT→EXIT
 
--[4958474-fa495e4133ee8f6c.webp]
+![](../images/4958474-fa495e4133ee8f6c.webp)
 
 ## 3 编译内核
 
@@ -70,7 +70,7 @@ cd linux-4.10
 make bzImage -jN
 ```
 
--[4958474-544e0b7bc6929718.webp]
+![](../images/4958474-544e0b7bc6929718.webp)
 
 这里的 N 是你的 CPU 核数 x2，比如我是双核，则执行 j4 
 如果嫌麻烦也可以直接运行 make bzImage
@@ -91,7 +91,7 @@ bc: not found。需要安装 bc：apt-get install bc
 make modules - jN
 ```
 
--[4958474-83687977675a426c.webp]
+![](../images/4958474-83687977675a426c.webp)
 
 ## 4 安装内核
 
@@ -101,7 +101,7 @@ make modules - jN
 make modules_install
 ```
 
--[4958474-74f94a20f9c5c52d.webp]
+![](../images/4958474-74f94a20f9c5c52d.webp)
 
 再安装内核
 
@@ -109,7 +109,7 @@ make modules_install
 make install
 ```
 
--[4958474-1119a9f6a4a48e35.webp]
+![](../images/4958474-1119a9f6a4a48e35.webp)
 
 ## 5 更改启动 grub
 
