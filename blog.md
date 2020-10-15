@@ -56,3 +56,4 @@
 - [怎样获取进程的路径](blog/how-to-get-the-path-of-the-process.md)
 - [Getting the CR3 value for a PID in Linux](blog/getting-the-cr3-value-for-a-pid-in-linux.md)
 - [大页内存在虚拟化中的应用](blog/use-of-large-page-memory-in-virtualization.md)
+- [Linux 忘记 root 密码怎么办？](blog/linux-forget-root-passwd.md)
