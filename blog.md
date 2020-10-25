@@ -58,3 +58,4 @@
 - [大页内存在虚拟化中的应用](blog/use-of-large-page-memory-in-virtualization.md)
 - [Linux 忘记 root 密码怎么办？](blog/linux-forget-root-passwd.md)
 - [4.5 Page Fault Handling - IA-64 Linux Kernel: Design and Implementation](blog/virtual-memory-in-the-ia-64-linux-kernel-ia-64-linux.md)
+- [浅析 Linux 内核中的 idr 机制](blog/analysis-of-idr-mechanism-in-linux-kernel.md)
