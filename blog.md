@@ -60,3 +60,4 @@
 - [4.5 Page Fault Handling - IA-64 Linux Kernel: Design and Implementation](blog/virtual-memory-in-the-ia-64-linux-kernel-ia-64-linux.md)
 - [浅析 Linux 内核中的 idr 机制](blog/analysis-of-idr-mechanism-in-linux-kernel.md)
 - [利用异常表处理 Linux 内核态缺页异常](blog/use-the-exception-table-to-handle-page-faults-in-linux-kernel-mode.md)
+- [Linux 缺页异常处理源码分析](blog/linux-memory-management-page-fault-exception-handling.md)
