@@ -64,4 +64,7 @@
 - [Linux 伙伴系统和内存分配器](blog/linux-memory-management-buddy-system-and-memory-allocator.md)
 - [Linux 内存管理专题](blog/linux-memory-management-topics-0.md)
 	- [#1 物理内存初始化](blog/linux-memory-management-topics-1.md)
+	- [#2 页表的映射过程](blog/linux-memory-management-topics-2.md)
+	- [#7 VMA 操作](blog/linux-memory-management-topics-7.md)
+	- [#12 反向映射 RMAP](blog/linux-memory-management-topics-12.md)
 	- [#15 页面迁移](blog/linux-memory-management-topics-15.md)
