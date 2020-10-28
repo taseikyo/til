@@ -68,3 +68,4 @@
 	- [#7 VMA 操作](blog/linux-memory-management-topics-7.md)
 	- [#12 反向映射 RMAP](blog/linux-memory-management-topics-12.md)
 	- [#15 页面迁移](blog/linux-memory-management-topics-15.md)
+- [std::pair 作为 unordered_map 的 key](blog/std-pair-as-the-key-of-unordered-map.md)
