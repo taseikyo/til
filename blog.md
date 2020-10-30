@@ -1,5 +1,7 @@
 # Blog
 
+## Tech
+
 - [二叉树的莫里斯遍历 / Morris Traversal](blog/tree-morris-traversal.md)
 - [尾调用优化 / Tail Call Optimization](blog/tail-call-optimization.md)
 - [TCP 与 UDP 的区别](blog/tcp-vs-udp.md)
@@ -71,3 +73,7 @@
 - [std::pair 作为 unordered_map 的 key](blog/std-pair-as-the-key-of-unordered-map.md)
 - [Git 删除远端分支后本地不同步的问题](blog/the-problem-of-local-synchronization-after-git-deletes-the-remote-branch.md)
 - [Linux 缺页异常处理](blog/linux-page-fault-exception-handling.md)
+
+## non-Tech
+
+- 冷战后的五个战略机遇期（[上](blog/five-periods-of-strategic-opportunity-after-the-cold-war-1.md) [中](blog/five-periods-of-strategic-opportunity-after-the-cold-war-2.md) [下](blog/five-periods-of-strategic-opportunity-after-the-cold-war-3.md)）
