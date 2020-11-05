@@ -74,6 +74,7 @@
 - [Git 删除远端分支后本地不同步的问题](blog/the-problem-of-local-synchronization-after-git-deletes-the-remote-branch.md)
 - [Linux 缺页异常处理](blog/linux-page-fault-exception-handling.md)
 - [Linux 物理内存描述](blog/linux-physical-memory-description.md)
+- [LINUX 下防止文件被误删除或修改](blog/prevent-files-from-being-deleted-or-modified-by-mistake-under-linux.md)
 
 ## non-Tech
 
