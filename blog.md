@@ -76,6 +76,7 @@
 - [Linux 物理内存描述](blog/linux-physical-memory-description.md)
 - [LINUX 下防止文件被误删除或修改](blog/prevent-files-from-being-deleted-or-modified-by-mistake-under-linux.md)
 - [Linux 内核和用户空间通信的方式（一）—— proc 文件和 mmap 共享内存](blog/communication-between-linux-kernel-and-user-space-proc-file-and-mmap-shared-memory.md)
+- [C 语言代码添加一行 URL 能正常运行的原因](blog/url-in-c.md)
 
 ## non-Tech
 
