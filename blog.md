@@ -78,6 +78,7 @@
 - [Linux 内核和用户空间通信的方式（一）—— proc 文件和 mmap 共享内存](blog/communication-between-linux-kernel-and-user-space-proc-file-and-mmap-shared-memory.md)
 - [C 语言代码添加一行 URL 能正常运行的原因](blog/url-in-c.md)
 - [如何在 Markdown 文档显示 diff 效果](blog/create-a-git-diff-in-markdown.md)
+- [Python `yield from`](blog/yield-from-in-python3-stackoverflow.md)
 
 ## non-Tech
 
