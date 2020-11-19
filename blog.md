@@ -79,6 +79,7 @@
 - [C 语言代码添加一行 URL 能正常运行的原因](blog/url-in-c.md)
 - [如何在 Markdown 文档显示 diff 效果](blog/create-a-git-diff-in-markdown.md)
 - [Python `yield from`](blog/yield-from-in-python3-stackoverflow.md)
+- [git 修改历史提交（commit）信息](blog/git-revision-history-commit-message.md)
 
 ## non-Tech
 
