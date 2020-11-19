@@ -4,9 +4,9 @@
 >
 > @Link    : github.com/taseikyo
 
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.cnblogs.com](https://www.cnblogs.com/kawashibara/p/8961646.html)  2018-04-27 11:43 作者：[张欣橙](https://www.cnblogs.com/kawashibara/)
-
 # 数据库中 DQL、DML、DDL 与 DCL 的概念与区别
+
+> 原文：https://www.cnblogs.com/kawashibara/p/8961646.html 2018-04-27 11:43 [张欣橙](https://www.cnblogs.com/kawashibara/)
 
 昨天（20-8-29）农行笔试分三部分，第一部分是单选题，第二部分是编程，第三部分是性格测试。第一部分又分为若干部分，其中数据库的比重较大，很多数据库基础知识，如基本的 SQL 语句，数据库的范式等等，其中就考到了 DCL，原题不记得了，就是给出了几个命令（SELECT DROP REVOKE INSERT）哪一个属于 DCL，于是来搜一下数据库一共分哪几种语句，以及他们之间的区别。
 
