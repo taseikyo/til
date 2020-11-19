@@ -80,6 +80,7 @@
 - [如何在 Markdown 文档显示 diff 效果](blog/create-a-git-diff-in-markdown.md)
 - [Python `yield from`](blog/yield-from-in-python3-stackoverflow.md)
 - [git 修改历史提交（commit）信息](blog/git-revision-history-commit-message.md)
+- [win10 修改 wsl2 和 docker 镜像的安装路径](blog/win10-modify-the-installation-path-of-wsl2-and-docker-image.md)
 
 ## non-Tech
 
