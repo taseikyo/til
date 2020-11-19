@@ -4,9 +4,9 @@
 >
 > @Link    : github.com/taseikyo
 
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.jianshu.com](https://www.jianshu.com/p/078df7a35671)
-
 # SQL 注入基础原理（超详细）
+
+> 原文：https://www.jianshu.com/p/078df7a35671 [Jewel591](https://www.jianshu.com/u/6c3dcf39fbe6) 2017.08.22 11:12:47
 
 * 安利一款优秀的 XSS 检测工具：XSSMap
 
@@ -23,7 +23,6 @@ SQL 注入攻击是通过将恶意的 SQL 查询或添加语句插入到应用�
 * 业务逻辑层（Business Logic Layer）
     
 * 数据访问层（Data access layer）
-    
 
 区分层次的目的即为了 “高内聚低耦合” 的思想。在软件体系架构设计中，分层式结构是最常见，也是最重要的一种结构被应用于众多类型的软件开发。  
 由数据库驱动的 Web 应用程序依从三层架构的思想也分为了三层：
@@ -33,7 +32,6 @@ SQL 注入攻击是通过将恶意的 SQL 查询或添加语句插入到应用�
 * 业务逻辑层（又称领域层）
     
 * 数据访问层（又称存储层）
-    
 
 拓扑结构如下图所示
 
@@ -52,7 +50,6 @@ SQL 注入攻击是通过将恶意的 SQL 查询或添加语句插入到应用�
 * 业务逻辑层的 Web 服务器将 Web 页面封装成 HTML 格式发送给表示层的 Web 浏览器。
     
 * 表示层的 Web 浏览器解析 HTML 文件，将内容展示给用户。
-    
 
 在三层架构中，所有通信都必须要经过中间层，简单地说，三层架构是一种**线性关系**。
 
