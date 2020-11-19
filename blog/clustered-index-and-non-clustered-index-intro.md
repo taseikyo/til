@@ -4,11 +4,12 @@
 >
 > @Link    : github.com/taseikyo
 
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.cnblogs.com](https://www.cnblogs.com/aspnethot/articles/1504082.html) 2009-06-16 09:53  [布颜书](https://www.cnblogs.com/aspnethot/)
-
 # 聚集索引和非聚集索引（整理）
 
+> 原文：https://www.cnblogs.com/aspnethot/articles/1504082.html 2009-06-16 09:53  [布颜书](https://www.cnblogs.com/aspnethot/)
+
 ## Table of Contents
+
 - [聚集索引](#聚集索引)
 - [非聚集索引](#非聚集索引)
 - [一、深入浅出理解索引结构](#一、深入浅出理解索引结构)
