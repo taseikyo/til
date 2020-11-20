@@ -6,6 +6,37 @@
 
 加文件头（`@Date` `@Author`）是因为我喜欢给东西打上时间的 tag，有时间 tag 的东西后面回头看会很有沉淀感，我很喜欢这种感觉。从某个时间点之后我都是用 [简读](https://simpread.pro/) 直接转的 md，然后会手动加上作者与发布时间。
 
+如何搜索？参考 [ruanyf/weekly](https://github.com/ruanyf/weekly) 给出的方法：
+
+1. 使用 [Sourcegraph.com](https://sourcegraph.com/github.com/taseikyo/til) 进行搜索
+2. 使用 GitHub 自带的搜索，但只支持搜索英文单词
+3. 将这个仓库克隆到本地，然后在仓库目录使用下面的命令
+
+```Bash
+grep -nri [搜索词] [目录]
+# 下面将显示每条记录的序号，但是会没有颜色
+grep -nri [搜索词] [目录]| cat --number
+```
+
+比如搜索 *博客* 中含有 **内核源码** 关键词的博客：
+
+```Bash
+til [master●] % grep -nri "内核源码" blog
+blog/linux-physical-memory-description.md:13:本文以 linux-2.6.32-220.el6 版本内核源码为基础，介绍 Linux 内核中有关物理内存的概念，和如何描述物理内存。注意：本文中涉及到的仅是和物理内存有关的概念、数据结构。和地址如何映射、线性地址、物理地址；内存如何分配 / 回收等概念无关。
+blog/use-the-exception-table-to-handle-page-faults-in-linux-kernel-mode.md:126:那么，这个所谓的修复地址又是如何生成的呢？是系统自动生成的吗？答案当然是否定的，这些修复指令都是编程人员通过 as 提供的扩 展功能写进内核源码中的。下面我们就来分析一下其实现机制。
+blog/use-the-exception-table-to-handle-page-faults-in-linux-kernel-mode.md:323:也许有的读者会问了，既然不执行，前面的例子和围绕例子所展开的讨论又有什么作用呢？大家大可打消这样的疑虑，我们前面的分析并 没有白费，因为真正的内核异常表中地址对的生成机制和前面讲述的原理是完全一样的，笔者通过一个运行在用户空间的程序来讲解也是希望让读者能够更加容易的理解异常表的机制，不至于陷入到内核源码的汪洋大海中去。现在，我们可以自己通过 objdump 工具查看一下内核中的异常表：
+```
+
+比如搜索 *书* 中含有 **参数绑定** 关键词的章节：
+
+```Bash
+til [master●] % grep -nri "参数绑定" book
+book/cpp-primer-5nd-edition/src/10.generic-algorithms.md:306:### 参数绑定
+book/cpp-primer-5nd-edition/src/10.generic-algorithms.md:365:此 bind 调用生成一个可调用对象，将 checksize 的第二个参数绑定到 sz 的值。当 find_if 对 words 中的 string 调用这个对象时，这些对象会调用 check_size，将给定的 string 和 sz 传递给它。因此，find_if 可以有效地对输入序列中每个 string 调用 check_size，实现 string 的大小与 sz 的比较。
+book/cpp-primer-5nd-edition/src/10.generic-algorithms.md:461:### 向后兼容：参数绑定
+book/fluent-python/src/05.first-class-functions.md:489:inspect.Signature 对象有个 bind 方法，它可以把任意个参数绑定到签名中的形参
+```
+
 ## Table of Contents
 
 - [Reference：有用链接](#reference)
