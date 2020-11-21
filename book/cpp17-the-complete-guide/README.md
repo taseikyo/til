@@ -38,3 +38,5 @@
 	- [17.`std::any`](src/17.std-any.md)
 	- [18.`std::byte`](src/18.std-byte.md)
 	- [19.String Views](src/19.string-views.md)
+- Part IV: Library Extensions and Modifications
+	- [21.Extensions of Type Traits](src/21.extensions-of-type-traits.md)
