@@ -82,6 +82,7 @@
 - [git 修改历史提交（commit）信息](blog/git-revision-history-commit-message.md)
 - [win10 修改 wsl2 和 docker 镜像的安装路径](blog/win10-modify-the-installation-path-of-wsl2-and-docker-image.md)
 - [将代码同时 push 到 github 和码云](blog/push-code-to-github-and-gitee.md)
+- [go 的 \[\] rune 和 \[\] byte 区别](blog/the-difference-between-rune-and-byte-in-go.md)
 
 ## non-Tech
 
