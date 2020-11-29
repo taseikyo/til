@@ -87,3 +87,4 @@
 ## non-Tech
 
 - 冷战后的五个战略机遇期（[上](blog/five-periods-of-strategic-opportunity-after-the-cold-war-1.md) [中](blog/five-periods-of-strategic-opportunity-after-the-cold-war-2.md) [下](blog/five-periods-of-strategic-opportunity-after-the-cold-war-3.md)）
+- [大多数人一生中学习得太晚的20件事](blog/20-things-most-people-learn-too-late-in-life.md)
