@@ -84,6 +84,7 @@
 - [将代码同时 push 到 github 和码云](blog/push-code-to-github-and-gitee.md)
 - [go 的 \[\] rune 和 \[\] byte 区别](blog/the-difference-between-rune-and-byte-in-go.md)
 - [大页内存（HugePages）在通用程序优化中的应用](blog/application-of-hugepages-in-general-program-optimization.md)
+- [Linux 大页面使用与实现简介](blog/introduction-to-the-use-and-implementation-of-linux-huge-pages.md)
 
 ## non-Tech
 
