@@ -74,29 +74,29 @@ book/fluent-python/src/05.first-class-functions.md:489:inspect.Signature 对象�
 
 ### C++
 
-- [如何遍历 vector](cpp/how-to-iterate-vector.md)
-- [vector 与 char* 相互转换](cpp/conversion-between-vector-and-char-star.md)
-- [C++ STL 简介](cpp/cpp-slt-intro.md)
-- [关于 sizeof 的一些思考](cpp/some-thoughts-on-sizeof.md)
-- [虚函数简介](cpp/vtable-intro.md)
-- [C++ 设计模式简介](cpp/cpp-design-pattern-intro.md)
-- [引用折叠和完美转发](cpp/reference-collapsing-and-perfect-forward-intro.md)
-- [奇妙的 enum class，enum struct 组合](cpp/enum-class-intro.md)
-- [C++11 继承构造函数](cpp/c11-inheriting-constructors-intro.md)
-- [子类如何调用父类重载的运算符](cpp/subclass-calls-the-operator-overloaded-by-the-parent-class.md)
+- [如何遍历 vector](cpp/2020/06/how-to-iterate-vector.md)
+- [vector 与 char* 相互转换](cpp/2020/06/conversion-between-vector-and-char-star.md)
+- [C++ STL 简介](cpp/2020/06/cpp-slt-intro.md)
+- [关于 sizeof 的一些思考](cpp/2020/07/some-thoughts-on-sizeof.md)
+- [虚函数简介](cpp/2020/07/vtable-intro.md)
+- [C++ 设计模式简介](cpp/2020/07/cpp-design-pattern-intro.md)
+- [引用折叠和完美转发](cpp/2020/07/reference-collapsing-and-perfect-forward-intro.md)
+- [奇妙的 enum class，enum struct 组合](cpp/2020/07/enum-class-intro.md)
+- [C++11 继承构造函数](cpp/2020/07/c11-inheriting-constructors-intro.md)
+- [子类如何调用父类重载的运算符](cpp/2020/08/subclass-calls-the-operator-overloaded-by-the-parent-class.md)
 - [五种排序算法的 C++ 实现以及时间分析](cpp/comparison-of-sorting-algos)
-- [模板的全特化与偏特化](cpp/full-specialization-and-partial-specialization-of-templates.md)
-- [shared_ptr 传参和复制的引用计数问题](cpp/shared_ptr-reference-counting-problem-of-parameter-passing-and-copying.md)
+- [模板的全特化与偏特化](cpp/2020/08/full-specialization-and-partial-specialization-of-templates.md)
+- [shared_ptr 传参和复制的引用计数问题](cpp/2020/08/shared_ptr-reference-counting-problem-of-parameter-passing-and-copying.md)
 - [new object() 和 new object 区别][cpp-200901]
-- [模板类的声明与定义分开放置编译的问题](cpp/why-can't-i-separate-the-definition-of-my-templates-class-from-its-declaration-and-put-it-inside-a-cpp-file.md)
-- [解决模板类的编译问题](cpp/how-can-i-avoid-linker-errors-with-my-template-functions.md)
-- [C++17 新特性个人总结](cpp/c17-new-features-intro.md)
+- [模板类的声明与定义分开放置编译的问题](cpp/2020/09/why-can't-i-separate-the-definition-of-my-templates-class-from-its-declaration-and-put-it-inside-a-cpp-file.md)
+- [解决模板类的编译问题](cpp/2020/09/how-can-i-avoid-linker-errors-with-my-template-functions.md)
+- [C++17 新特性个人总结](cpp/2020/09/c17-new-features-intro.md)
 
 ### Python
 
-- [从 7z 压缩包中读取文件](python/read-files-from-7z.md)
-- [doctest 测试模块使用简介](python/doctest-intro.md)
-- [Python 实用技巧](python/useful-python-tricks.md)
+- [从 7z 压缩包中读取文件](python/2020/07/read-files-from-7z.md)
+- [doctest 测试模块使用简介](python/2020/08/doctest-intro.md)
+- [Python 实用技巧](python/2020/09/useful-python-tricks.md)
 
 ### Blog
 
