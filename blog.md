@@ -85,6 +85,7 @@
 - [go 的 \[\] rune 和 \[\] byte 区别](blog/the-difference-between-rune-and-byte-in-go.md)
 - [大页内存（HugePages）在通用程序优化中的应用](blog/application-of-hugepages-in-general-program-optimization.md)
 - [Linux 大页面使用与实现简介](blog/introduction-to-the-use-and-implementation-of-linux-huge-pages.md)
+- [KVM 虚拟机备份和还原之内存备份和还原](blog/memory-backup-and-restore-of-kvm-virtual-machine-backup-and-restore.md)
 
 ## non-Tech
 
