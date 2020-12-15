@@ -143,6 +143,28 @@ book/fluent-python/src/05.first-class-functions.md:489:inspect.Signature 对象�
 - [数据结构 - 郝斌](course/haobin-data-structure)
 - [MIT 18.06 Linear Algebra, Spring 2005](course/mit-18.06-linear-algebra-spring-2005)
 
+### 秋招详情
+
+<details>
+<summary>^_^</summary>
+
+当初建这个库就是为了应付今年的秋招，也就是说从六月份才开始准备，所以其实很匆忙，很多知识点没复习到，也没投几家公司，下面是最后的结果：
+
+- 被动挂
+	- 阿里，笔试或者性格测试挂，笔试 0 ac，性格测试太弱智我乱选的
+	- 猿辅导，笔试挂，收获第一封也是唯一一封感谢信
+	- 微信，2+2+1，两轮技术面，两轮面委会，一轮 HR，明明都云证了，最后审批挂，不是很懂
+	- 美团，投晚了，笔试完就没消息了，后面 11 月份面试官发短信约面试，我：？
+- 主动拒
+	- 小米，拒了好几次笔试
+	- 农行，拒了面试
+- 意向书
+	- bilibili，4，没有 hr 面，挺怪的，最后开了劝退价，笑了
+	- pdd，2+1，两轮技术面体验不错，听说工作强度太大，放弃了
+	- 快手，3+1，base 北京，想长远发展还是退却了
+	- 字节（抖音），3，也是没有 hr 面，一天 3 轮技术面，体验还不错
+</details>
+
 ### License
 
 Copyright (c) 2020 Lewis Tian. Licensed under the MIT license.
