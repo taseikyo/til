@@ -575,7 +575,7 @@ int main() {
 
 一图胜千言:
 
-![](../images/2617233751-58b38ddf104ae_articlex.png)
+![](../images/2020/07/2617233751-58b38ddf104ae_articlex.png)
 
 简言之:
 
