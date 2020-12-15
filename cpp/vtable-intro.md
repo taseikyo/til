@@ -35,7 +35,7 @@ private:
 
 类 A 的虚表如图 1 所示。  
 
-![](../images/V0LzIwMTYwNTI4MTA1NDQ5NjQx.jpg)
+![](../images/2020/07/V0LzIwMTYwNTI4MTA1NDQ5NjQx.jpg)
 
 图 1：类 A 的虚表示意图
 
@@ -47,7 +47,7 @@ private:
 虚表是属于类的，而不是属于某个具体的对象，一个类只需要一个虚表即可。同一个类的所有对象都使用同一个虚表。  
 为了指定对象的虚表，对象内部包含一个虚表的指针，来指向自己所使用的虚表。为了让每个包含虚表的类的对象都拥有一个虚表指针，编译器在类中添加了一个指针，`*__vptr`，用来指向虚表。这样，当类的对象在创建时便拥有了这个指针，且这个指针的值会自动被设置为指向类的虚表。
 
-![](../images/TYwNTI4MTA1NTM5MTcz.jpg)
+![](../images/2020/07/TYwNTI4MTA1NTM5MTcz.jpg)
 
 图 2：对象与它的虚表
 
@@ -87,7 +87,7 @@ private:
 
 类 A 是基类，类 B 继承类 A，类 C 又继承类 B。类 A，类 B，类 C，其对象模型如下图 3 所示。
 
-![](../images/wNTI4MTA0ODA2NDU1.jpg)
+![](../images/2020/07/wNTI4MTA0ODA2NDU1.jpg)
 
 图 3：类 A，类 B，类 C 的对象模型
 

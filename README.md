@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="#readme"><img src="images/til-everydaycat.jpg" alt="Today I Learned" title="Today I Learned"></a>
+	<a href="#readme"><img src="images/2020/09/til-everydaycat.jpg" alt="Today I Learned" title="Today I Learned"></a>
 </p>
 
 建议本地配合 Markdown Preview Plus 扩展观看，由于有的地方使用了 latex 公式，直接在 GitHub 上看显示不了。
@@ -100,27 +100,27 @@ book/fluent-python/src/05.first-class-functions.md:489:inspect.Signature 对象�
 
 ### Blog
 
-- [二叉树的莫里斯遍历 / Morris Traversal](blog/tree-morris-traversal.md)
-- [尾调用优化 / Tail Call Optimization](blog/tail-call-optimization.md)
-- [TCP 与 UDP 的区别](blog/tcp-vs-udp.md)
-- [Redis 简介 - CyC2018 / CS-Notes](blog/redis-cyc2018.md)
-- [存储系统中的各种写放大 / Write Amplification](blog/storage-system-write-amplification.md)
-- [跳表简介 / Skip List](blog/skip-list-intro.md)
-- [红黑树简介 / Red-Black Tree](blog/red-black-tree-intro.md)
-- [如何阅读复杂的 C 类型声明 / How To Read C Declarations / Clockwise/Spiral Rule](blog/how-to-read-c-declarations-spiral-rule-anderson.md)
-- [数据库原理简介 - CyC2018 / CS-Notes](blog/database-system-principle-intro-cyc2018.md)
-- [如何在 main 函数之前执行其它函数](blog/how-to-run-other-functions-before-main-is-executed.md)
-- [STL 内存池简介](blog/stl-memory-pool-intro.md)
-- [select、poll、epoll 之间的区别](blog/the-difference-between-select-poll-epoll.md)
-- [微信红包算法以及带上下限的红包算法](blog/wechat-red-envelope-algorithm-and-red-envelope-algorithm-with-upper-and-lower-limits.md)
-- [C++ 中的虚函数 (表) 实现机制以及用 C 语言对其进行的模拟实现](blog/the-implementation-mechanism-of-virtual-function-table-in-c++-and-its-implementation-in-c.md)
-- [平衡二叉树、B 树、B+ 树、B* 树理解其中一种你就都明白了](blog/b-tree-b+-tree-b-star-tree-intro.md)
-- [哈夫曼树（赫夫曼树、最优树）及C语言实现](blog/huffman-tree-intro.md)
-- [一文详解 TCP/IP 协议栈](blog/tcp-ip-protocol-stack-intro.md)
-- [数据库 SQL 调优的几种方式](blog/several-ways-of-sql-tuning.md)
-- [C++ 后端开发面经整理 - 牛客网](blog/cpp-back-end-developer-interview-experience-record.md)
-- [几种洗牌与抽样算法](blog/shuffle-and-sampling-algos.md)
-- [所有 blog 文章>>](blog.md)
+- [二叉树的莫里斯遍历 / Morris Traversal](blog/2020/06/tree-morris-traversal.md)
+- [尾调用优化 / Tail Call Optimization](blog/2020/06/tail-call-optimization.md)
+- [TCP 与 UDP 的区别](blog/2020/06/tcp-vs-udp.md)
+- [Redis 简介 - CyC2018 / CS-Notes](blog/2020/06/redis-cyc2018.md)
+- [存储系统中的各种写放大 / Write Amplification](blog/2020/06/storage-system-write-amplification.md)
+- [跳表简介 / Skip List](blog/2020/06/skip-list-intro.md)
+- [红黑树简介 / Red-Black Tree](blog/2020/06/red-black-tree-intro.md)
+- [如何阅读复杂的 C 类型声明 / How To Read C Declarations / Clockwise/Spiral Rule](blog/2020/06/how-to-read-c-declarations-spiral-rule-anderson.md)
+- [数据库原理简介 - CyC2018 / CS-Notes](blog/2020/06/database-system-principle-intro-cyc2018.md)
+- [如何在 main 函数之前执行其它函数](blog/2020/07/how-to-run-other-functions-before-main-is-executed.md)
+- [STL 内存池简介](blog/2020/07/stl-memory-pool-intro.md)
+- [select、poll、epoll 之间的区别](blog/2020/07/the-difference-between-select-poll-epoll.md)
+- [微信红包算法以及带上下限的红包算法](blog/2020/07/wechat-red-envelope-algorithm-and-red-envelope-algorithm-with-upper-and-lower-limits.md)
+- [C++ 中的虚函数 (表) 实现机制以及用 C 语言对其进行的模拟实现](blog/2020/07/the-implementation-mechanism-of-virtual-function-table-in-c++-and-its-implementation-in-c.md)
+- [平衡二叉树、B 树、B+ 树、B* 树理解其中一种你就都明白了](blog/2020/07/b-tree-b+-tree-b-star-tree-intro.md)
+- [哈夫曼树（赫夫曼树、最优树）及C语言实现](blog/2020/11/huffman-tree-intro.md)
+- [一文详解 TCP/IP 协议栈](blog/2020/08/tcp-ip-protocol-stack-intro.md)
+- [数据库 SQL 调优的几种方式](blog/2020/08/several-ways-of-sql-tuning.md)
+- [C++ 后端开发面经整理 - 牛客网](blog/2020/08/cpp-back-end-developer-interview-experience-record.md)
+- [几种洗牌与抽样算法](blog/2020/08/shuffle-and-sampling-algos.md)
+- [所有 blog 文章>>](blog/)
 
 ### Book
 
