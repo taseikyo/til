@@ -86,6 +86,7 @@
 - [大页内存（HugePages）在通用程序优化中的应用](2020/12/application-of-hugepages-in-general-program-optimization.md)
 - [Linux 大页面使用与实现简介](2020/12/introduction-to-the-use-and-implementation-of-linux-huge-pages.md)
 - [KVM 虚拟机备份和还原之内存备份和还原](2020/12/memory-backup-and-restore-of-kvm-virtual-machine-backup-and-restore.md)
+- [用 pandoc 制作带弹出式注释的 EPUB 和 MOBI 电子书](2020/12/use-pandoc-to-make-epub-and-mobi-e-books-with-pop-up-annotations.md)
 
 ## non-Tech
 
