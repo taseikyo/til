@@ -6,7 +6,7 @@
 
 # 理解 docker
 
-> 原文：https://zhuanlan.zhihu.com/p/66794639 2020-09-16 [兰新宇](https://www.zhihu.com/people/lan-xin-yu)
+> 原文：https://zhuanlan.zhihu.com/p/143253843 2020-09-16 [兰新宇](https://www.zhihu.com/people/lan-xin-yu)
 
 ## 另一种虚拟化
 
