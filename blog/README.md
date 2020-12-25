@@ -87,6 +87,9 @@
 - [Linux 大页面使用与实现简介](2020/12/introduction-to-the-use-and-implementation-of-linux-huge-pages.md)
 - [KVM 虚拟机备份和还原之内存备份和还原](2020/12/memory-backup-and-restore-of-kvm-virtual-machine-backup-and-restore.md)
 - [用 pandoc 制作带弹出式注释的 EPUB 和 MOBI 电子书](2020/12/use-pandoc-to-make-epub-and-mobi-e-books-with-pop-up-annotations.md)
+- [Linux 中的 mmap 映射](2020/12/mmap-mapping-in-linux.md)
+- [Linux 的进程地址空间](2020/12/linux-process-address-space-intro.md)
+
 
 ## non-Tech
 
