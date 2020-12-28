@@ -91,6 +91,7 @@
 - [Linux 的进程地址空间](2020/12/linux-process-address-space-intro.md)
 - [理解 Docker](2020/12/understanding-docker.md)
 - [文件系统的原理](2020/12/principle-file-system.md)
+- [Bash 的测试和比较函数（`[` `[[` `((`）](2020/12/bash-test-and-comparison-functions.md)
 
 ## non-Tech
 
