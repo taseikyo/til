@@ -99,3 +99,4 @@
 - 冷战后的五个战略机遇期（[上](2020/10/five-periods-of-strategic-opportunity-after-the-cold-war-1.md) [中](2020/10/five-periods-of-strategic-opportunity-after-the-cold-war-2.md) [下](2020/10/five-periods-of-strategic-opportunity-after-the-cold-war-3.md)）
 - [大多数人一生中学习得太晚的20件事](2020/11/20-things-most-people-learn-too-late-in-life.md)
 - [一文读懂「国富论」](2020/12/read-the-wealth-of-nations-in-one-article.md)
+- [【经济分析入门】两个阶级、两种理论、两个实践、两条道路的分歧](2021/01/two-classes-two-theories-two-practices-the-difference-of-two-roads.md)
