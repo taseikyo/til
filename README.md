@@ -135,7 +135,6 @@ book/fluent-python/src/05.first-class-functions.md:489:inspect.Signature 对象�
 - [C++17 - The Complete Guide](book/cpp17-the-complete-guide) 👍
 - [Fluent Python（流畅的 Python）](book/fluent-python) 👍
 - [CSAPP: Computer Systems: A Programmer's Perspective, 3rd Edition](book/computer-systems-a-programmers-perspective-3rd-edition) 👍👍
-- [Pointers on C（C 和指针）](book/pointers-on-c)
 
 ### Course
 
