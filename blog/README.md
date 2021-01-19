@@ -56,6 +56,7 @@
 - [go 的 \[\] rune 和 \[\] byte 区别](2020/11/the-difference-between-rune-and-byte-in-go.md)
 - [Bash 的测试和比较函数（`[` `[[` `((`）](2020/12/bash-test-and-comparison-functions.md)
 - [Linux Shell 实现随机数多种方法](2020/09/multiple-methods-to-implement-random-numbers-linux.md)
+- [Python 正则表达式 特殊符号和字符](2021/01/python3-re-expr.md)
 
 ### git 相关
 

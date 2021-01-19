@@ -42,7 +42,7 @@ book/fluent-python/src/05.first-class-functions.md:489:inspect.Signature 对象�
 - [Reference：有用链接](#reference)
 - [Code：刷题的代码](#code)
 - [DIY-Algos：自己实现的辣鸡类](#diy-algos)
-- [C++：关于 C艹 的一些技巧或者文章](#c++)
+- [C++：关于 C艹 的一些技巧或者文章](#c)
 - [Python：关于 Python 的一些技巧或者文章](#python)
 - [Blog：有趣有技术的技术博客](#blog)
 - [Book：看过的书的记录](#book)
