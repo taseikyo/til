@@ -119,3 +119,4 @@
 - [大多数人一生中学习得太晚的20件事](2020/11/20-things-most-people-learn-too-late-in-life.md)
 - [一文读懂「国富论」](2020/12/read-the-wealth-of-nations-in-one-article.md)
 - [【经济分析入门】两个阶级、两种理论、两个实践、两条道路的分歧](2021/01/two-classes-two-theories-two-practices-the-difference-of-two-roads.md)
+- [懂社会才能懂得书的真谛 - 《八次危机》书评](2021/02/only-by-understanding-society-can-we-understand-the-true-meaning-of-books.md)
