@@ -112,6 +112,7 @@
 - [理解 Docker](2020/12/understanding-docker.md)
 - [文件系统的原理](2020/12/principle-file-system.md)
 - [史上最详细的 kvm_mmu_page 结构和用法解析](2020/12/the-most-detailed-kvm_mmu_page-structure-and-usage-analysis-in-history.md)
+- [pandoc 将 latex 转为 docx](2021/03/convert-latex-to-docx-using-pandoc.md)
 
 ## non-Tech
 
