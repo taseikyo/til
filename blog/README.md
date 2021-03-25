@@ -114,6 +114,7 @@
 - [史上最详细的 kvm_mmu_page 结构和用法解析](2020/12/the-most-detailed-kvm_mmu_page-structure-and-usage-analysis-in-history.md)
 - [pandoc 将 latex 转为 docx](2021/03/convert-latex-to-docx-using-pandoc.md)
 - [使用 libnuma + jemalloc 将不同数据分配在不同的 NUMA node 上](2021/03/use-libnuma-jemalloc-to-allocate-different-data-on-different-numa-nodes.md)
+- [离线安装 VS Code 插件](2021/03/install-vscode-extension-offline.md)
 
 ## non-Tech
 
