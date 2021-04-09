@@ -66,6 +66,7 @@
 - [git 修改历史提交（commit）信息](2020/11/git-revision-history-commit-message.md)
 - [将代码同时 push 到 github 和码云](2020/11/push-code-to-github-and-gitee.md)
 - [GitHub 合并 2 个项目并保留 commit 记录](2021/04/github-merges-2-projects-and-keeps-commit-records.md)
+- [git add -A/git add -u/git add . 三者的区别](2021/04/the-difference-between-git-add-a-u-dot.md)
 
 ### 未分类
 
