@@ -73,6 +73,7 @@
 - [win10 修改 wsl2 和 docker 镜像的安装路径](2020/11/win10-modify-the-installation-path-of-wsl2-and-docker-image.md)
 - [离线安装 VS Code 插件](2021/03/install-vscode-extension-offline.md)
 - [WSL2 开机启动 cron](2021/03/wsl2-starts-cron-on-boot.md)
+- [win10 环境下安装 jupyter 时遇到的问题](2021/04/problems-encountered-when-installing-jupyter-in-windows.md)
 
 ### 未分类
 
