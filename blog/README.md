@@ -117,6 +117,7 @@
 - [pandoc 将 latex 转为 docx](2021/03/convert-latex-to-docx-using-pandoc.md)
 - [使用 libnuma + jemalloc 将不同数据分配在不同的 NUMA node 上](2021/03/use-libnuma-jemalloc-to-allocate-different-data-on-different-numa-nodes.md)
 - [离线安装 VS Code 插件](2021/03/install-vscode-extension-offline.md)
+- [使用 tar 进行文件夹的差异备份、还原](2021/04/incremental-backup-and-restore-of-files-using-tar.md)
 
 ## non-Tech
 
