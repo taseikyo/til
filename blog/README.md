@@ -65,6 +65,7 @@
 - [Git 删除远端分支后本地不同步的问题](2020/10/the-problem-of-local-synchronization-after-git-deletes-the-remote-branch.md)
 - [git 修改历史提交（commit）信息](2020/11/git-revision-history-commit-message.md)
 - [将代码同时 push 到 github 和码云](2020/11/push-code-to-github-and-gitee.md)
+- [GitHub 合并 2 个项目并保留 commit 记录](2021/04/github-merges-2-projects-and-keeps-commit-records.md)
 
 ### 未分类
 
