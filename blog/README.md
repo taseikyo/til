@@ -122,6 +122,7 @@
 - [pandoc 将 latex 转为 docx](2021/03/convert-latex-to-docx-using-pandoc.md)
 - [使用 libnuma + jemalloc 将不同数据分配在不同的 NUMA node 上](2021/03/use-libnuma-jemalloc-to-allocate-different-data-on-different-numa-nodes.md)
 - [使用 tar 进行文件夹的差异备份、还原](2021/04/incremental-backup-and-restore-of-files-using-tar.md)
+- [Ubuntu 18.04 解决Temporary failure in name resolution DNS 解析问题](2021/03/ubuntu18.04-solves-temporary-failure-in-name-resolution-dns-resolution-problem.md)
 
 ## non-Tech
 
