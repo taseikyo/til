@@ -68,6 +68,12 @@
 - [GitHub 合并 2 个项目并保留 commit 记录](2021/04/github-merges-2-projects-and-keeps-commit-records.md)
 - [git add -A/git add -u/git add . 三者的区别](2021/04/the-difference-between-git-add-a-u-dot.md)
 
+### Windows 相关
+
+- [win10 修改 wsl2 和 docker 镜像的安装路径](2020/11/win10-modify-the-installation-path-of-wsl2-and-docker-image.md)
+- [离线安装 VS Code 插件](2021/03/install-vscode-extension-offline.md)
+- [WSL2 开机启动 cron](2021/03/wsl2-starts-cron-on-boot.md)
+
 ### 未分类
 
 - [尾调用优化 / Tail Call Optimization](2020/06/tail-call-optimization.md)
@@ -104,7 +110,6 @@
 - [Linux 物理内存描述](2020/10/linux-physical-memory-description.md)
 - [LINUX 下防止文件被误删除或修改](2020/11/prevent-files-from-being-deleted-or-modified-by-mistake-under-linux.md)
 - [Linux 内核和用户空间通信的方式（一）—— proc 文件和 mmap 共享内存](2020/11/communication-between-linux-kernel-and-user-space-proc-file-and-mmap-shared-memory.md)
-- [win10 修改 wsl2 和 docker 镜像的安装路径](2020/11/win10-modify-the-installation-path-of-wsl2-and-docker-image.md)
 - [大页内存（HugePages）在通用程序优化中的应用](2020/12/application-of-hugepages-in-general-program-optimization.md)
 - [Linux 大页面使用与实现简介](2020/12/introduction-to-the-use-and-implementation-of-linux-huge-pages.md)
 - [KVM 虚拟机备份和还原之内存备份和还原](2020/12/memory-backup-and-restore-of-kvm-virtual-machine-backup-and-restore.md)
@@ -116,7 +121,6 @@
 - [史上最详细的 kvm_mmu_page 结构和用法解析](2020/12/the-most-detailed-kvm_mmu_page-structure-and-usage-analysis-in-history.md)
 - [pandoc 将 latex 转为 docx](2021/03/convert-latex-to-docx-using-pandoc.md)
 - [使用 libnuma + jemalloc 将不同数据分配在不同的 NUMA node 上](2021/03/use-libnuma-jemalloc-to-allocate-different-data-on-different-numa-nodes.md)
-- [离线安装 VS Code 插件](2021/03/install-vscode-extension-offline.md)
 - [使用 tar 进行文件夹的差异备份、还原](2021/04/incremental-backup-and-restore-of-files-using-tar.md)
 
 ## non-Tech
