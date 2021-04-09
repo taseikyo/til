@@ -124,6 +124,7 @@
 - [使用 tar 进行文件夹的差异备份、还原](2021/04/incremental-backup-and-restore-of-files-using-tar.md)
 - [Ubuntu 18.04 解决Temporary failure in name resolution DNS 解析问题](2021/03/ubuntu18.04-solves-temporary-failure-in-name-resolution-dns-resolution-problem.md)
 - [Ubuntu 下 git 版本升级](2021/03/ubuntu-git-version-upgrade.md)
+- [使用 Typora + 坚果云（github）打造免费的个人云笔记](2021/03/create-free-personal-cloud-notes-with-typora-nutcloud-github.md)
 
 ## non-Tech
 
