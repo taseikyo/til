@@ -75,6 +75,7 @@
 - [WSL2 开机启动 cron](2021/03/wsl2-starts-cron-on-boot.md)
 - [win10 环境下安装 jupyter 时遇到的问题](2021/04/problems-encountered-when-installing-jupyter-in-windows.md)
 - [Word 中使用 bib 管理参考文献](2021/04/using-bib-to-manage-references-in-word.md)
+- [bib+windows+word=bibtex4word 插件使用方法](2021/04/bib-windows-word-bibtex4word.md)
 
 ### 未分类
 
