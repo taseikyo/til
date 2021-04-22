@@ -128,6 +128,7 @@
 - [Ubuntu 18.04 解决Temporary failure in name resolution DNS 解析问题](2021/03/ubuntu18.04-solves-temporary-failure-in-name-resolution-dns-resolution-problem.md)
 - [Ubuntu 下 git 版本升级](2021/03/ubuntu-git-version-upgrade.md)
 - [使用 Typora + 坚果云（github）打造免费的个人云笔记](2021/03/create-free-personal-cloud-notes-with-typora-nutcloud-github.md)
+- [【内存】TLB缓存是个神马鬼，如何查看TLB miss？](2021\04\how-to-measure-tlb-miss-rate.md)
 
 ## non-Tech
 
