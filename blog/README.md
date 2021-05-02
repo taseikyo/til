@@ -58,6 +58,7 @@
 - [Linux Shell 实现随机数多种方法](2020/09/multiple-methods-to-implement-random-numbers-linux.md)
 - [Python 正则表达式 特殊符号和字符](2021/01/python3-re-expr.md)
 - [Golang 之协程详解](2021/05/golang-concurrency-in-detail.md)
+- [Golang 中 defer 的使用规则](2021/05/golang-defer-rules.md)
 
 ### git 相关
 
