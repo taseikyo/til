@@ -135,7 +135,7 @@ book/fluent-python/src/05.first-class-functions.md:489:inspect.Signature 对象�
 - [C++17 - The Complete Guide](book/cpp17-the-complete-guide) 👍
 - [Fluent Python（流畅的 Python）](book/fluent-python) 👍
 - [CSAPP: Computer Systems: A Programmer's Perspective, 3rd Edition](book/computer-systems-a-programmers-perspective-3rd-edition) 👍👍
-- [快乐的 Linux 命令行](book/the-linux-command-line)
+- [x] [快乐的 Linux 命令行](book/the-linux-command-line)
 
 ### Course
 
@@ -153,20 +153,23 @@ book/fluent-python/src/05.first-class-functions.md:489:inspect.Signature 对象�
 - 被动挂
 	- 阿里，笔试或者性格测试挂，笔试 0 ac，性格测试太弱智我乱选的
 	- 猿辅导，笔试挂，收获第一封也是唯一一封感谢信
-	- 微信，2+2+1，两轮技术面，两轮面委会，一轮 HR，明明都云证了，最后审批挂，不是很懂
+	- 微信，2+2+1，两轮技术面，两轮面委会，一轮 HR，明明都云证了，最后审批挂，不是很懂。5 月份又打电话来问还在找工作吗，我：？
 	- 美团，投晚了，笔试完就没消息了，后面 11 月份面试官发短信约面试，我：？
 - 主动拒
-	- 小米，拒了好几次笔试
+	- 小米，开始说内推没笔试，后面又变卦了，所以直接拒了好几次笔试（因为会反复发）
 	- 农行，拒了面试
-- 意向书
+- offer
 	- bilibili，4，没有 hr 面，挺怪的，最后开了劝退价，笑了
 	- pdd，2+1，两轮技术面体验不错，听说工作强度太大，放弃了
 	- 快手，3+1，base 北京，想长远发展还是退却了
 	- 字节（抖音），3，也是没有 hr 面，一天 3 轮技术面，体验还不错
+	- 华为，3+1+1，base 深圳，理由同快手
+
+所以看上去，实际参加面试的一共 6 家，除了微信都拿到 offer 了，运气还不错，就是开得并不是很高就是。
 </details>
 
 ### License
 
 Copyright (c) 2020 Lewis Tian. Licensed under the MIT license.
 
-[cpp-200901]:cpp/the-difference-between-new-object()-and-new-object.md
+[cpp-200901]:cpp/2020/09/the-difference-between-new-object()-and-new-object.md
