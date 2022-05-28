@@ -60,6 +60,8 @@
 - [Golang 之协程详解](2021/05/golang-concurrency-in-detail.md)
 - [Golang 中 defer 的使用规则](2021/05/golang-defer-rules.md)
 - [Python 的多进程与多线程](2021/06/multiprocessing-vs-threading-in-python.md)
+- [设计模式在 Go 语言中的应用](2022/05/design-patterns-in-the-go-language.md)
+
 
 ### git 相关
 
