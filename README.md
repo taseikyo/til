@@ -66,6 +66,7 @@ book/fluent-python/src/05.first-class-functions.md:489:inspect.Signature 对象�
 - [coding-interviews](code/coding-interviews)
 - [cracking-the-coding-interview](code/cracking-the-coding-interview)
 - [每日一道有趣的编程题](code/daily-problem)
+- [Go by Example](code/go-by-example)
 
 ### DIY-Algos
 
@@ -142,6 +143,7 @@ book/fluent-python/src/05.first-class-functions.md:489:inspect.Signature 对象�
 - [七月算法](course/july-algorithm)
 - [数据结构 - 郝斌](course/haobin-data-structure)
 - [MIT 18.06 Linear Algebra, Spring 2005](course/mit-18.06-linear-algebra-spring-2005)
+- [【老男孩 2020】最新 go 全套教程](course/wupeiqi-go-tutotial)
 
 ### 秋招详情
 
