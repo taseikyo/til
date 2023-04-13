@@ -36,6 +36,10 @@
 - [Redis - SDS（简单动态字符串）](2023/04/redis-sds.md)
 - [Redis 请合理使用 String 类型](2023/04/redis-use-string-wisely.md)
 - [Redis - ziplist (压缩列表)](2023/04/redis-ziplist.md)
+- [Redis - zipmap（压缩字典）](2023/04/redis-zipmap.md)
+- [Redis - intset （ 整数数组）](2023/04/redis-intset.md)
+- [IntSet (整数集合)](2023/04/redis-intset-IUuiyang.md)
+- [Redis - quicklist（快速列表）](2023/04/redis-quicklist.md)
 
 ### 编程语言
 
