@@ -33,6 +33,13 @@
 - [聚集索引和非聚集索引](2020/08/clustered-index-and-non-clustered-index-intro.md)
 - [数据库中的 WAL 是什么](2020/08/what-is-wal-in-database.md)
 - [MySQL 中的几种 join 方式](2020/08/several-joins-of-mysql.md)
+- [Redis - SDS（简单动态字符串）](2023/04/redis-sds.md)
+- [Redis 请合理使用 String 类型](2023/04/redis-use-string-wisely.md)
+- [Redis - ziplist (压缩列表)](2023/04/redis-ziplist.md)
+- [Redis - zipmap（压缩字典）](2023/04/redis-zipmap.md)
+- [Redis - intset （ 整数数组）](2023/04/redis-intset.md)
+- [IntSet (整数集合)](2023/04/redis-intset-IUuiyang.md)
+- [Redis - quicklist（快速列表）](2023/04/redis-quicklist.md)
 
 ### 编程语言
 
