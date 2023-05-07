@@ -9,6 +9,8 @@
 - [红黑树简介 / Red-Black Tree](2020/06/red-black-tree-intro.md)
 - [平衡二叉树、B 树、B+ 树、B* 树理解其中一种你就都明白了](2020/07/b-tree-b+-tree-b-star-tree-intro.md)
 - [哈夫曼树（赫夫曼树、最优树）及C语言实现](2020/11/huffman-tree-intro.md)
+- [并查集](2023/05/dsu.md)
+- [红黑树](2023/05/rbtree.md)
 
 ### 网络
 
